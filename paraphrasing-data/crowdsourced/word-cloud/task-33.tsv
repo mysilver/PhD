@@ -1,0 +1,41 @@
+# expression:  I am looking for the latest scientific article related to <b class='fixed'>Machine Learning</b>
+
+valid	I am searching for the most recent article about Machine Learning
+valid	do you see a scientific article that you would associate with Machine Learning?
+valid	I would like to search for a scientific journal article that would pertain to Machine Learning
+
+divergence	the last article of Machine Learning is available?
+divergence	the most recent scientific article of Machine Learning is available?
+divergence	who is the lasted scientific article of Machine Learning?
+
+valid	I am searching for the latest scientific article related to Machine Learning
+valid	I want to know top scientific article related to Machine Learning
+valid	list top scientific article related to Machine Learning
+
+valid	I am searching for latest article which is related to scientific about Machine Learning
+valid	hunt for the scientific article known as Machine Learning
+divergence	Machine Learning is one of the best scientific article which I recently searched
+
+valid	I am seeking the latest scientific expository article about Machine Learning
+valid	I need the latest scientific expository article about Machine Learning
+valid	get me the latest scientific article related to Machine Learning
+
+valid	find a science article about Machine Learning
+valid	look for science articles about Machine Learning
+valid	search for articles related to Machine Learning
+
+valid	I am searching for online articles related to Machine Learning
+valid	do you have any journal articles related to Machine Learning
+valid	what is the most recent article in the journal related to Machine Learning
+
+cheating	should Machine Learning
+cheating	Machine Learning newspaper_story
+cheating	look_for Machine Learning
+
+valid	I'm searching for the most recent scientific article about Machine Learning
+valid	I need to find the last published scientific article on Machine Learning
+valid	I am in search of the latest scientific article related to Machine Learning
+
+spelling	find the most recent science artile in Machine Learning
+valid	look for Machine Learning's latest scientific article
+valid	what newspaper story discusses recent Machine Learning articules

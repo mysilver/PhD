@@ -1,0 +1,77 @@
+# expression: give me a handful of 5 conference articles about text_mining
+
+valid,	show me results for 5 conference articles over text_mining
+valid,	search for 5 conference articles on text_mining
+valid,	5 conference articles on text_mining on net
+
+valid,	top 5 conference articles about text_mining
+valid,	most handful of 5 conference articles about text_mining
+valid,	suggest me a handful of 5 conference articles about text_mining
+
+valid,	search for 5 conference articles about text_mining.
+valid,	show me at least 5 conference articles about text_mining.
+valid,	pick some 5 conference articles about text_mining.
+
+valid,	show me a handful of 5 conference articles about text_mining
+valid,	search for 5 conference articles about text_mining
+valid,	find 5 conference articles about text_mining
+
+valid,	show 5 articles on text_mining
+valid,	find me 5 text_mining articles
+valid,	open 5 conference articles that are discussing text_mining
+
+valid,	find me a handful of 5 conference articles about text_mining
+valid,	highlight me a handful of 5 conference articles about text_mining
+valid,	summarize me a handful of 5 conference articles about text_mining
+
+valid,	bring me 5 text_mining articles
+valid,	I need 5 conference articles of text_mining
+valid,	find me 5 conference articles about text_mining
+
+cheating,	5 text_mining is all about knowing
+cheating,	5 text_mining is all about know
+cheating,	5 text_mining is all about knowledge
+
+divergence,cheating,	5 topics are discussed in text_mining
+divergence,cheating,	5 text_mining has a conference topic today
+divergence,cheating,	text_mining topics of 5 different articles are discussed
+
+divergence,	find me around 5 stories on text_mining
+valid,	I need 5 articles exploring text_mining
+valid,	can you find 5 articles on text_mining
+
+valid,	I am looking for 5 magazine articles on text_mining
+valid,	give 5 examples of articles on text_mining
+valid,	I need to find 5 articles on text_mining
+
+valid,	show me 5 conference articles on text_mining
+valid,	provide me with five articles on text_mining
+valid,	find me 5 different articles about text_mining
+
+valid,	5 conference articles about text_mining
+valid,	5 editorial articles about text_mining
+valid,	5 online articles on text_mining
+
+valid,	give me 5 articles on text_mining
+valid,	5 text_mining articles
+valid,	5 conference articles on text_mining
+
+cheating,	take 5 column text_mining
+cheating,	column
+cheating,	round_table
+
+cheating,	5 some text_mining
+cheating,	some
+cheating,	throw
+
+cheating,	give5text_mining
+cheating,	sjoaiudoiuo5text_minig
+cheating,	jkaskjhsaj
+
+divergence,	symposium about 5 text_mining
+valid,	discover 5 conference articles about text_mining
+valid,	get 5 conference articles about text_mining
+
+cheating,	give me a handful of 5 dozen for conference articles on text_mining
+cheating,	give me a handful of 5 for text_mining conference articles to discover
+cheating,	give me a handful of 5 for text_mining conference articles to tell

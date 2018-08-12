@@ -1,0 +1,81 @@
+# expression: search for cooking videos
+
+grammar,	cooking videos youtube
+valid,	find cooking videos
+valid,	cooking videos on web
+
+valid,	top cooking videos
+grammar,	top most watch cooking videos
+grammar,	most top cooking videos
+
+valid,	look for cooking videos
+valid,	locate cooking videos
+valid,	find cooking videos
+
+valid,	search the internet for some good cooking videos.
+valid,	search for some nice cooking video channels.
+valid,	show me cooking videos.
+
+valid,	find me cooking videos
+divergence,	where can I find cooking videos
+grammar,divergence,	look at me cooking videos
+
+valid,	show me cooking videos
+valid,	google cooking videos
+valid,	find me some cooking videos
+
+valid,	show me cooking videos
+valid,	I want to see cooking videos
+valid,	I want cooking videos
+
+divergence,	search for cooking ideas
+divergence,	show me cooking content
+divergence,	videos on how to learn cooking
+
+cheating,divergence,	cooking foods for long serves best
+cheating,divergence,	I was looking for the cooking menu book in the library
+divergence,cheating,	I just started cooking from today
+
+valid,	find videos of cooking
+valid,	show me video clips of cooking
+valid,	looking for cooking vlogs
+
+valid,	i am looking for cooking videos
+valid,	find cooking videos
+valid,	i would like to find video clips of people cooking
+
+valid,	searching for cooking videos
+valid,	let's see some cooking recordings
+valid,	searching for some cooking clips
+
+valid,	top most watching cooking videos
+divergence,	1000 top cooking videos
+valid,	worlds best top cooking videos
+
+cheating,divergence,	i plan for video recording of my cooking.
+divergence,cheating,	in recent years, there has been a big hunt for cooking videos of most cuisines.
+divergence,cheating,	trying to learn cooking by watching a clip or footage is a waste of time.
+
+valid,	cooking video
+cheating,	personal_video_recorder
+cheating,	find_lost_item
+
+divergence,	find me some cooking videos that teach how to pressure_cook
+divergence,	can you help me with searching videos on cooking brown_meat
+divergence,	look_for videos that focus on cooking basics like saute
+
+cheating,	cookingjjsabnkjnbsaj
+cheating,	cookingnnasknbcxvhsbxcanokasjpojkaspok
+cheating,	cookinghasmn xnaknsakonokm
+
+cheating,	search for cooking videossa
+cheating,	search for cooking videosas
+cheating,	search for cooking videosaa
+
+valid,	look for cooking videos
+valid,	hunt for cooking videos
+valid,	seek for cooking videos
+
+valid,	i want to find many cooking videos
+divergence,	i will try to catch cooking videos
+divergence,	on the internet you will find great cooking videos

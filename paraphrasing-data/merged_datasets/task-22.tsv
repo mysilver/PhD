@@ -1,0 +1,81 @@
+# expression: jump to the previous song
+
+cheating,	gggffhffsdff
+cheating,	sfggfhghfghdfg
+cheating,	sftrfdfdffhhh
+
+valid,	can you play the previous song
+valid,cheating,	please jump to the previous song
+valid,	play the previous song
+
+valid,	go back to the previous song
+valid,	play the previous song
+valid,	open the previous song
+
+valid,	previous song
+valid,	go to previous song
+valid,	previous song please
+
+valid,	jump to the previous song again
+grammar,	play to the previous song
+valid,	go to the previous song again
+
+translate,	bachatas luego
+translate,	champeta y
+translate,	como falta el reggue
+
+valid,	go back to the last song.
+valid,	play the previous song.
+valid,	play the song before this one.
+
+cheating,	my phone will jump to the previous song
+cheating,	I had to jump to the previous song
+cheating,	he will jump to the previous song
+
+cheating,valid,	you are requested to jump to the previous song
+valid,cheating,	please jump to the previous song
+grammar,cheating,	let me be jump to the previous song
+
+cheating,	barricade up to the unprepared cantus
+cheating,	light into in the ante folk singing
+cheating,	leeway over against the rushed love-lilt
+
+valid,	go back to the previous song
+valid,	can you play the song prior to this one
+valid,	the last song was better. can you play that one again
+
+valid,	go to the last song
+valid,	go back to the previous song
+valid,	change to the last song played
+
+valid,	previous song
+divergence,	skip this one
+valid,	last song
+
+divergence,	skip_over to the next song
+cheating,	copy the song to the mobile
+cheating,	does this song represents the national anthem of a country
+
+cheating,	before_now
+cheating,	melody
+valid,	jump back
+
+valid,	play the previous melody.
+valid,	I want to listen to the song that you played a little while ago.
+valid,	jump_back to the song that you played previously
+
+cheating,	dassdaassadkjlksjklhadhkd
+cheating,	asddhskahkdhsahdsaiuuisdagiusadghiuasd
+cheating,	dsajhdahdahsdhiuasyhdiuyasdyoasudoiusd
+
+valid,	go to the previous song
+valid,	leap to the previous song
+spelling,	go to the pryor song
+
+valid,	move to the previous song
+valid,	return to the last song
+valid,	play the previous song
+
+cheating,	ballad song
+cheating,	game song
+cheating,	win_or_loose song

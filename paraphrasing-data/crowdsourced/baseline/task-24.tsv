@@ -1,0 +1,41 @@
+# expression: search for a few nice photos matching <b class='fixed'>Opera House</b> with size <b class='fixed'>1024px</b> * <b class='fixed'>768px</b>
+
+valid	Opera House pictures size should be 1024px*768px.
+valid	Opera House pictures not less than 1024px*768px.
+valid	Opera House pictures size must be 1024px*768px.
+
+valid	show me nice Opera House pictures of 1024px * 768px size
+valid	please show me some nice pictures of Opera House of size 1024px * 768px
+valid	can you show me some nice pictures of Opera House of size 1024px * 768px
+
+valid	search for nice photos matching Opera House with size 1024px * 768px
+valid	search photos matching Opera House with size 1024px * 768px
+valid	search for a few nice photos matching Opera House with size 1024px * 768px
+
+valid	looking for a few nice photos matching Opera House with size 1024px * 768px
+valid	few nice photos matching Opera House with size 1024px * 768px
+valid	nice photos matching Opera House with size 1024px * 768px
+
+valid	search for Opera House photos size 1024px*768px
+valid	search for photo sizes 1024px*768px of Opera House
+valid	search for photos matching size 1024px*768px of Opera House.
+
+valid	search for the photos of Opera House with size 1024px * 768px
+divergence	click few photos of Opera House with size 1024px * 768px
+divergence	update the content in a site with photos of Opera House with size 1024px * 768px
+
+valid	perform a search for a few nice photos with size 1024px * 768px and matching Opera House
+valid	find a few photos matching Opera House and with size 1024px * 768px that are nice.
+valid	find a few nice photos sized 1024px * 768px and matching Opera House.
+
+cheating	search for a few nice photos matchintg Opera House with size 1024px * 768px
+cheating	search for a few nice photos matcghing Opera House with size 1024px * 768px
+cheating	search for a few nice photos search for a few nice photos matching Opera House with size 1024px * 768px opera #rhouse with size 1024px * 768px
+
+valid	search for good 1024px * 768px photos of Opera House
+valid	find good 1024px * 768px photos of Opera House
+valid	show good 1024px * 768px photos of Opera House
+
+valid	few nice photos of Opera House with size 1024px * 768px
+valid	could you provide me few nice photos matching Opera House with size 1024px * 768px
+grammar	Opera House photos with sixe 1024px * 768px please search few nice one

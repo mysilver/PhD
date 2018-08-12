@@ -1,0 +1,81 @@
+# expression: what is the weather like on Friday ?
+
+valid,	what are weather condition for Friday.
+spelling,	what is Friday weather forcast.
+valid,	how is Friday weather going to be?
+
+cheating,	cool weather like on Friday?
+cheating,	hot weather like on Friday?
+cheating,	cold type weather like on Friday?
+
+valid,	Friday weather
+valid,	Friday weather forecast
+valid,	weather on Friday
+
+valid,	what will be the weather like on Friday?
+valid,	on Friday, how the weather will be like? cloudy or sunny?
+valid,	show me the weather broadcast for Friday.
+
+valid,	what is the weather forecast for Friday?
+grammar,cheating,	look at me the weather forecast for Friday
+valid,	check the weather for Friday
+
+valid,	what will be the weather like on Friday
+valid,	do you know what will be the weather like on Friday
+valid,	on Friday, what will be the weather like
+
+valid,	will the weather be nice on Friday?
+valid,	what will the weather be like on Friday?
+valid,	what is the weather planning to do on Friday?
+
+valid,	tell me forecast for Friday
+valid,	what will be the weather on Friday
+valid,	show me Friday weather
+
+valid,	what will Friday's weather be?
+valid,	can you tell me what the weather is going to be on Friday?
+grammar,	I'm looking for Friday weather forecast?
+
+valid,	what was the weather on Friday?
+cheating,	I like Friday.
+cheating,	today is Friday.
+
+valid,	how's the weather looking for Friday?
+valid,	will it rain on Friday?
+valid,	what kind of weather conditions can I expect on Friday?
+
+valid,	what's the weather doing on Friday
+valid,	what are the weather conditions on Friday
+valid,	weather forecast for Friday
+
+grammar,cheating,	what about weather like on Friday ?
+cheating,grammar,	cool weather like on Friday.?
+cheating,grammar,	what is the weather on Friday ?
+
+valid,	how's weather forecast on Friday ?
+valid,	does atmospheric condition indicate rain on Friday ?
+cheating,	be_pleased_by sunny weather on Friday
+
+cheating,	downpour on Friday
+cheating,	rainstorm on Friday
+cheating,	thunderstorm on Friday
+
+valid,	will it rain on Friday ?
+valid,	what will Friday's weather be like
+valid,	on Friday will the weather be good ?
+
+valid,	how is the weather looking for Friday?
+divergence,cheating,	what does the weather news for Friday?
+valid,	what does the weather predict for Friday?
+
+valid,	what will the weather be on Friday
+valid,	what will the weather be like on Friday
+valid,	what kind of weather will we have on Friday
+
+spelling,	hiw does the weather look for Friday?
+valid,	what is the weather forecast for Friday?
+valid,	what kind of weather condition will it be for Friday?
+
+valid,	what is the forecast for Friday?
+valid,	what will Friday's weather be like?
+valid,	what is the Friday weather forecast?

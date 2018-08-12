@@ -1,0 +1,81 @@
+# expression: search for a few nice photos matching Opera House with size 1024px * 768px
+
+valid,	Opera House pictures size should be 1024px*768px.
+valid,	Opera House pictures not less than 1024px*768px.
+valid,	Opera House pictures size must be 1024px*768px.
+
+valid,	show me nice Opera House pictures of 1024px * 768px size
+valid,	please show me some nice pictures of Opera House of size 1024px * 768px
+valid,	can you show me some nice pictures of Opera House of size 1024px * 768px
+
+valid,	search for nice photos matching Opera House with size 1024px * 768px
+valid,	search photos matching Opera House with size 1024px * 768px
+valid,	search for a few nice photos matching Opera House with size 1024px * 768px
+
+valid,	looking for a few nice photos matching Opera House with size 1024px * 768px
+valid,	few nice photos matching Opera House with size 1024px * 768px
+valid,	nice photos matching Opera House with size 1024px * 768px
+
+valid,	search for Opera House photos size 1024px*768px
+valid,	search for photo sizes 1024px*768px of Opera House
+valid,	search for photos matching size 1024px*768px of Opera House.
+
+valid,	search for the photos of Opera House with size 1024px * 768px
+divergence,cheating,misuse,	click few photos of Opera House with size 1024px * 768px
+cheating,divergence,	update the content in a site with photos of Opera House with size 1024px * 768px
+
+valid,	perform a search for a few nice photos with size 1024px * 768px and matching Opera House
+valid,	find a few photos matching Opera House and with size 1024px * 768px that are nice.
+valid,	find a few nice photos sized 1024px * 768px and matching Opera House.
+
+cheating,	search for a few nice photos matchintg Opera House with size 1024px * 768px
+cheating,	search for a few nice photos matcghing Opera House with size 1024px * 768px
+cheating,	search for a few nice photos search for a few nice photos matching Opera House with size 1024px * 768px opera #rhouse with size 1024px * 768px
+
+valid,	search for good 1024px * 768px photos of Opera House
+valid,	find good 1024px * 768px photos of Opera House
+valid,	show good 1024px * 768px photos of Opera House
+
+valid,	few nice photos of Opera House with size 1024px * 768px
+valid,	could you provide me few nice photos matching Opera House with size 1024px * 768px
+grammar,spelling,	Opera House photos with sixe 1024px * 768px please search few nice one
+
+spelling,	I need to find a few good photos of the Opera House that measue 1024px * 768px
+valid,	do you have any 1024px*768px photos of the Opera House
+valid,	I am on the hunt for photos measuring 1024px*768px of the Opera House
+
+valid,	seek for photos that show Opera House sizes 1024px and 768px
+valid,	hunt for images of Opera House with size 1024px 768px
+valid,	look for pictures of Opera House with the size 1024px 768px
+
+valid,	Opera House at 1024px * 768px
+valid,	images of Opera House at 1024px * 768px
+valid,	find nice photos of Opera House at 1024px * 768px
+
+valid,	most top photos matching Opera House with size 1024px * 768px
+valid,	most popular nice photos matching Opera House with size 1024px * 768px
+divergence,	1000 most top photos matching Opera House with size 1024px * 768px
+
+valid,	I need nice 1024px * 768px photos of Opera House
+valid,	search for nice 1024px * 768px photos of Opera House
+valid,	find nice 1024px * 768px photos of Opera House
+
+valid,	search for photographs with size 1024px*768px which show an Opera House.
+valid,	find photos that combine an Opera House with size 1024px*768px
+valid,	look for photographs that are size 1024px*768px and show an Opera House
+
+valid,	I need a decent 1024px * 768px photo of the Opera House
+valid,	I need to find a great 1024px*768px picture of the Opera House
+valid,	do you have any 1024px * 768px photos of the Opera House?
+
+spelling,divergence,	go_togethe Opera House with size 1024px * 768px
+valid,	seek out Opera House with size 1024px * 768px
+valid,	terrific Opera House with size 1024px * 768px
+
+cheating,	I Opera House 1024px * 768px
+cheating,	you Opera House 1024px * 768px
+cheating,	I Opera House 1024px * 768px you
+
+cheating,	look for some nice pictures that match the Opera House with a size of 1024px * 768px. great
+cheating,	look for some nice pictures that match the Opera House with a size of 1024px * 768px. bemirror
+cheating,	look for some nice pictures that match the Opera House with a size of 1024px * 768px. #photographic

@@ -1,0 +1,41 @@
+# expression: suggest a few nice photos about <b class='fixed'>Opera House</b>
+
+valid	I would like to find some good photos of the Opera House
+valid	where can I find good photos of the Opera House
+valid	can you suggest a place to find pleasant photos of the Opera House
+
+valid	show nice Opera House images
+valid	good Opera House images
+valid	nice Opera House photos
+
+valid	suggest me some nice photos about Opera House
+valid	show me few nice photos about Opera House
+grammar	tell me a few nice photos about Opera House
+
+divergence	what is the name of the Opera House nearby?
+divergence	indicate the name of the Opera House in the area where you reside
+divergence	can you tell me which Opera House is this in this photo?
+
+valid	recommend a few nice photos of Opera House
+valid	show me a few nice photos of Opera House
+valid	refer me to a few nice photos of Opera House
+
+valid	show some photographs of an Opera House
+valid	find nice photos showing an Opera House
+valid	show me photographs about an Opera House
+
+valid	could you present us with a few nice photos of the Opera House
+valid	do you have any decent pictures of the Opera House
+valid	are there any nice photos of the Opera House that you would recommend?
+
+cheating	lovely the Opera House
+cheating	consider Opera House
+cheating	discover Opera House
+
+valid	provide a few useful photo about Opera House
+valid	find few nice photos of Opera House
+valid	look for a few good photos about Opera House
+
+valid	can you find a pretty Opera House picture
+divergence	the Opera House is an excellent venue for photos
+divergence	I believe the Opera House would be perfect for photos

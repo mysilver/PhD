@@ -1,0 +1,73 @@
+# expression: estimate the taxi fare from the airport to home
+
+valid,	how much for taxi from airport to home
+valid,	what are fare charges for taxi from airport to home
+valid,	how much I have to pay for taxi from airport to home
+
+answer,	airport to home is $50
+answer,	airport to home is $38
+answer,	airport to home is $56
+
+divergence,	how long it takes from shamshabad airport to my home
+divergence,	how far is shamshabad airport from my home
+divergence,	what is the distance between hyderabad international airport to my home
+
+valid,	how much approximately is a taxi from the airport to home
+valid,	what might the taxi fare be home from the airport
+valid,	approximately how much will I pay for a taxi home from the airport
+
+spelling,	what will be the estimate fair from airport to home
+spelling,	please give me the estimate fair from airport to home
+spelling,	tell me the estimate fair from airport to home
+
+divergence,	find a taxi to take me home from the airport
+divergence,	how long does it take a taxi from home to the airport
+divergence,	that is expensive is the taxi ride from the airport to home
+
+valid,	what is the fare of taxi from airport to home
+valid,	tell me about fare from airport to home
+cheating,	you have high taxi fare airport to home
+
+valid,	how much will it cost to take a taxi from airport to home
+valid,	get me the price of a taxi from airport to home
+valid,	what will it cost me on the average to take a taxi from airport to home
+
+valid,	which is the rate of taxi from the airport up to my home
+valid,	I need to know the rate of taxi from the airport up to my home
+valid,	calculate the rate of taxi from the airport up to my home
+
+valid,	what is the price of the taxi from the airport to home?
+valid,	ask how much the taxi is worth from the airport to home
+valid,	how much do you think the airport taxi is worth home?
+
+valid,	calculate the cab fare from the airport to home
+valid,	what would the taxi fare be from the airport to home
+valid,	I need an estimate of the cab fare from the airport to my home
+
+valid,	what is the estimated taxi fare from our airport to our home?
+valid,	what is the taxi fare from the airport to our home
+valid,	how much is the taxi fare from our airport to our home
+
+valid,	tell me the taxi fare from the airport to home
+valid,	what is the taxi fare from the airport to home
+cheating,	I know the taxi fare from the airport to home
+
+valid,	how much is taxi fare from home to the airport
+valid,	estimate taxi fare from the airport to home
+valid,	calculate taxi fare from the airport to home
+
+valid,	how much for a taxi from the airport to home
+valid,	what will be the cab cost from the airport to home
+valid,	find out the charge of a taxi to home from the airport
+
+valid,	what do you predict to be the taxi fare to my home from the airport ?
+valid,	how much would a cab charge me if I wanted to go from the airport to my home?
+valid,	what is the standard fare from the airport to home?
+
+valid,	how much will it cost me to get a taxi from the airport to home
+valid,	what is the standard fare between the airport and home
+spelling,	predict the cost of a taxe from the airport to home
+
+valid,	estimate the taxicab fare from airport to home
+valid,	estimate price the taxi fare from airport to home
+valid,	estimate the taxis fare from airport to home

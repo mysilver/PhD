@@ -1,0 +1,41 @@
+# expression: search for <b class='fixed'>cooking</b> videos
+
+valid	i am looking for cooking videos
+valid	find cooking videos
+valid	i would like to find video clips of people cooking
+
+valid	searching for cooking videos
+valid	let's see some cooking recordings
+valid	searching for some cooking clips
+
+valid	top most watching cooking videos
+valid	1000 top cooking videos
+valid	worlds best top cooking videos
+
+invalid	i plan for video recording of my cooking.
+invalid	in recent years, there has been a big hunt for cooking videos of most cuisines.
+valid	trying to learn cooking by watching a clip or footage is a waste of time.
+
+valid	cooking video
+invalid	personal_video_recorder
+invalid	find_lost_item
+
+valid	find me some cooking videos that teach how to pressure_cook
+valid	can you help me with searching videos on cooking brown_meat
+valid	look_for videos that focus on cooking basics like saute
+
+invalid	cookingjjsabnkjnbsaj
+invalid	cookingnnasknbcxvhsbxcanokasjpojkaspok
+invalid	cookinghasmn xnaknsakonokm
+
+invalid	search for cooking videossa
+invalid	search for cooking videosas
+invalid	search for cooking videosaa
+
+valid	look for cooking videos
+valid	hunt for cooking videos
+valid	seek for cooking videos
+
+valid	i want to find many cooking videos
+invalid	i will try to catch cooking videos
+invalid	on the internet you will find great cooking videos

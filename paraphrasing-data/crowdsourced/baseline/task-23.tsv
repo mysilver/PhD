@@ -1,0 +1,41 @@
+# expression: create a comment saying <b class='fixed'>"Best Voice Ever!!"</b>
+
+cheating	heard "Best Voice Ever!!"
+cheating	"Best Voice Ever!!" Outstanding.
+cheating	Searching for "Best Voice Ever!!"
+
+valid	generate a comment saying "Best Voice Ever!!"
+valid	Create a comment which says "Best Voice Ever!!"
+valid	"Best Voice Ever!!" must be said by the created comment
+
+valid	comment "Best Voice Ever!!"
+valid	make a comment "Best Voice Ever!!"
+valid	send "Best Voice Ever!!" as a comment
+
+valid	make a comment saying "Best Voice Ever!!"
+valid	create a comment "Best Voice Ever!!"
+valid	create a nice comment saying "Best Voice Ever!!"
+
+translate	todo esta bien
+translate	para vivir mejor
+translate	gracas a dios
+
+valid	say in a comment "Best Voice Ever!!"
+valid	create comment saying "Best Voice Ever!!"
+valid	comment saying "Best Voice Ever!!"
+
+divergence	you got the best voice ever
+divergence	she produced the best voice ever
+divergence	I heard her singing with the best voice ever
+
+valid	make a comment and write "Best Voice Ever!!"
+valid	start a comment with "Best Voice Ever!!"
+valid	write "Best Voice Ever!!" and make it a comment.
+
+divergence	it's the best voice ever I listen
+divergence	best voice ever I have
+divergence	well done, best voice ever!
+
+spelling	use words best voice ever tocreate a comment
+valid	make a comment by using best voice ever
+valid	comment by using best voice ever

@@ -1,0 +1,77 @@
+# expression: I am hosting a party, what playlist do you suggest ?
+
+cheating,	jjjjjjjjjdasd
+cheating,	asadfffdffggf
+cheating,	asfasdsffdsd
+
+valid,	I am hosting a big party, what playlist do you suggest ?
+grammar,	I am hosting a party, what do you suggest in playlist ?
+valid,	I am hosting a party, what playlist do you suggest to me ?
+
+valid,	suggest me a playlist for the party I am throwing
+valid,	do you have any playlist for my party
+grammar,	what playlist you will suggest for my party
+
+cheating,divergence,	that party lasted all night
+divergence,cheating,	I suggested him to play that song on the hosting party
+divergence,grammar,cheating,	I am so pleased to be invited to this party and able playlist that song
+
+divergence,	what music do you suggest for the party
+divergence,	what kind of music do I use for the party
+divergence,	what music do I put at the party
+
+divergence,	miami and las vegas
+divergence,	new york place
+divergence,	puerto rico pr
+
+valid,	what playlist would you like to suggest while I am hosting a party
+valid,	I am hosting a party, what kind of playlist will you like to suggest me?
+valid,	which playlist you suggest me in my hosting party
+
+valid,	suggest me a playlist
+valid,	give me a playlist
+valid,	get me a playlist suitable for a party
+
+answer,	reggaeton buenos
+answer,	salsa casino
+answer,	y bailables
+
+valid,	we are hosting a party, what playlist do you suggest ?
+valid,	I am head of a party, what playlist do you suggest ?
+valid,	hosting a party, what playlist do you suggest ?
+
+valid,	can you suggest a good party playlist
+valid,	I would like to welcome guests to my party with the best playlist
+valid,	which playlist would be the best for my party
+
+divergence,	I'm hosting a party, what music do you like?
+divergence,grammar,	I'm having a a party, what set list do you enjoy?
+divergence,	I'm partying, what songs do you like?
+
+valid,	suggest party playlists
+divergence,	best music for parties
+valid,	best party playlists
+
+cheating,	invalid invalid
+cheating,	invalid invalid .
+cheating,	invalid invalid invalid
+
+valid,	I am having a party, what playlist do you suggest
+divergence,	I am having a party, what hits do you suggest
+divergence,	I am having a party, what music do you suggest
+
+valid,	suggest playlists for a party
+valid,	find party playlists
+valid,	which playlist should I choose for my party
+
+valid,	I have a party, do you have a playlist choice?
+valid,	I need a playlist for a party I'm hosting, do you have any suggestion?
+valid,	do you have a playlist preference for me to use at the party I'm hosting tomorrow?
+
+cheating,	valid you suggest
+cheating,	suggest hosting a party?
+cheating,	suggest presume a party?
+
+cheating,	I'm organizing a party, what playlist do you suggest? everything is valid
+cheating,	I'm organizing a party, really, what playlist do you suggest?
+cheating,	I'm organizing a party, only what playlist do you suggest?

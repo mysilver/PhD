@@ -1,0 +1,77 @@
+# expression: request a taxi from airport to home
+
+divergence,cheating,	coming from airport to home.
+cheating,divergence,	going to airport from home.
+cheating,divergence,	get back from airport to the home.
+
+valid,	please send a taxi for home from airport
+valid,	can you send a taxi from airport to home
+valid,	can you send me a taxi for home , I am at airport.
+
+valid,	request a taxi from airport to home please
+valid,	I request a taxi from airport to home
+valid,	request a taxi from airport to home now
+
+cheating,valid,	a taxi from airport to home
+cheating,valid,	taxi from airport to home
+cheating,divergence,	from airport to home
+
+valid,	send for a taxi to take me home from the airport
+valid,	I need a taxi from the airport to my home
+valid,	find me an airport taxi to bring me home when my plane arrives
+
+divergence,	need a truck to carry table from airport to home
+grammar,	request to book car from airport to home
+divergence,	need a cup of coffee while leaving from airport to home
+
+valid,	request a ride from airport to home
+valid,	I need a taxi to drive me from airport to home
+valid,	I need a ride from airport to home
+
+cheating,divergence,	my friends are coming airport to pick up me and drop my home
+valid,	could you organize a taxi for me from airport to home?
+divergence,cheating,	first time, I am going outside from home to airport
+
+cheating,	request a taxi from airport to homeyt
+cheating,	request a taxi from airport to homev
+cheating,	request a taxi from airport to homem
+
+valid,	I need a taxi from the airport to my home
+valid,	a quick taxi please, guide me from the airport to my home
+valid,	taxi from the airport to home as fast as possible
+
+valid,	I would like to catch a cab from the airport to my home
+valid,	can I request a taxi to take me to my home from the airport
+valid,	I need to take a cab from the airport to my home
+
+valid,	ask for a taxi from the airport to take me home
+valid,	request a taxicab from the airport to my home
+valid,	I require a taxi to pick me up at the airport and take me home
+
+cheating,valid,	taxi from airport to home
+valid,	need a taxi from airport to home
+valid,	airport to home taxi service
+
+valid,	hire a taxi from airport to home
+valid,	I want to rent a taxi from airport to home
+valid,	I need a taxi from airport to home
+
+valid,	call a taxi from airport to home
+valid,	a cab from airport to home
+divergence,	request a jitney from airport to home
+
+valid,	please book a taxi from the airport to home
+valid,	book a cab going from the airport to home
+valid,	order a taxi cab to take me home from the airport
+
+valid,	ask for a cabby to home from airport
+valid,	seek a taxi coming home from airport
+valid,	find a cabby riding from airport to home
+
+misuse,grammar,divergence,	petition a taxi from airport to home
+valid,	request a taxicab from airport to home
+divergence,	request a cabdriver from airport to home
+
+cheating,	request a taxi from the airport home consider it done
+cheating,	request a taxi from the airport home for a request
+cheating,	request a taxi from the airport home to order food

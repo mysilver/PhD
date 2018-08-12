@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Annotate</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
+    <style>
+        .highlighted {
+            background: #f7e3e3;
+        }
+    </style>
+</head>
+<body style="padding:30px; padding-right:100px; padding-left: 100px">
+<form action="{{url_for('index')}}" method="post">
+    <select class="form-control" style="width: auto! important; display: inline-block !important; margin: 20px"
+            name="expr">
+        {% for expr in expressions %}
+        <option value="{{expr}}" {{ "selected" if expr==exprssion }}>{{expr}}</option>
+        {% endfor %}
+    </select>
+    <input class="btn btn-success" type="submit" value="Apply"/>
+</form>
+<div class="panel panel-default">
+    <div class="panel-heading">Paraphrase: <b style="color: darkgreen">{{expression}}</b></div>
+    <div class="table-responsive">
+
+
+        <form method="post" action="{{url_for('annotate')}}">
+            <table class="table table table-hover">
+                <!--<thead>-->
+                <!--<tr>-->
+                <!--<th>Paraphrase</th>-->
+                <!--<th>100% Valid</th>-->
+                <!--<th>Not Exact</th>-->
+                <!--<th>Spelling Error</th>-->
+                <!--<th>Grammar Error</th>-->
+                <!--<th>Cheating</th>-->
+                <!--<th>Translating</th>-->
+                <!--<th>Answering</th>-->
+                <!--</tr>-->
+                <!--</thead>-->
+                <tbody>
+                {% for expr in datasets[expression] %}
+                <tr>
+                    <td class="{{'highlighted' if expr[1].split(',')|length > 2}}"><b style="color: #ff5722">{{expr[0]}}</b>
+                        <div style="margin-top: 5px" >
+
+                            <input {{ "checked" if "valid" in expr[1] }} type="checkbox" name="{{"valid_" + expr[0]}}"/>
+                            <label>Valid</label>
+                            <input {{ "checked" if "divergence" in expr[1] }} type="checkbox" name="{{"divergence_" + expr[0]}}"/>
+                            <label>Invalid</label>
+                            <input {{ "checked" if "spelling" in expr[1] }} type="checkbox" name="{{"spelling_" + expr[0]}}"/>
+                            <label>Spelling</label>
+                            <input {{ "checked" if "grammar" in expr[1] }} type="checkbox" name="{{"grammar_" + expr[0]}}"/>
+                            <label>Grammar</label>
+                            <input {{ "checked" if "cheating" in expr[1] }} type="checkbox" name="{{"cheating_" + expr[0]}}"/>
+                            <label>Cheating</label>
+                            <input {{ "checked" if "translate" in expr[1] }} type="checkbox" name="{{"translate_" + expr[0]}}"/>
+                            <label>Translate</label>
+                            <input {{ "checked" if "answer"  in expr[1]}} type="checkbox" name="{{"answer_" + expr[0]}}"/>
+                            <label>Answering</label>
+                            <input {{ "checked" if "misuse"  in expr[1]}} type="checkbox" name="{{"misuse_" + expr[0]}}"/>
+                            <label>WordMisuse</label>
+                        </div>
+                    </td>
+
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+            <input class="btn btn-success" type="submit" value="Save & Next"/>
+
+        </form>
+        <form method="post" action="{{url_for('save')}}">
+            <input class="btn btn-info" type="submit" value="Save Changes to Disk"/>
+        </form>
+    </div>
+</div>
+</body>
+</html>

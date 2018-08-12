@@ -1,0 +1,41 @@
+# expression: Is there any flight to <b class='fixed'>Tehran</b> from <b class='fixed'>Sydney</b> departing on this <b class='fixed'>Friday</b>
+
+valid	I would like to leave Friday on a flight from Sydney to Tehran.
+valid	is there an airplane that would depart Friday from Sydney to Tehran?
+valid	I would like to travel from Sydney to Tehran and depart on Friday.
+
+valid	there are available flight Tehran - Sydney by Friday?
+valid	there is some available flight Tehran - Sydney by Friday?
+valid	can I take a flight Tehran - Sydney by Friday?
+
+valid	please check to see if there is a flight departing this Friday to Tehran from Sydney
+valid	will you check to see if there is a flight to Tehran from Sydney leaving this Friday
+valid	look at the departing flight this Friday and see if there is any to Tehran from Sydney
+
+divergence	is there any flight from Sydney to Tehran departing on Friday from usa
+divergence	take leave on Friday for departing to Sydney from theran
+valid	is there a plane going to Tehran from Sydney on Friday
+
+valid	flight to Tehran from Sydney departing this Friday
+valid	any flight to Tehran from Sydney departing this Friday
+valid	airliner to Tehran from Sydney departing this Friday
+
+valid	which flights go from Tehran to Sydney on Friday
+valid	show me flights on Friday from Tehran to Sydney
+valid	find availability of flights from Tehran to Sydney on Friday
+
+valid	please can you find me a flight from Sydney to Tehran leaving this Friday
+valid	will I be able to connect a flight from Sydney to Tehran this Friday
+valid	will any flight be departing to Tehran from Sydney on this Friday
+
+valid	find flights to Tehran from Sydney on Friday
+valid	search for a flight to Tehran from Sydney this Friday
+valid	need a flight to Tehran from Sydney on Friday
+
+valid	is there any flight to Tehran that departs from Sydney this Friday
+valid	what are the flights to Tehran from Sydney departing on this Friday
+valid	is there a flight to Tehran from Sydney departing on this Friday
+
+spelling	is ther any flight form Sydney leaving this Friday for Tehran
+valid	this Friday, is there a plane traveling from Sydney to Tehran
+valid	do you know of any flight connecting Tehran from Sydney on this Friday

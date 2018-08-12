@@ -1,0 +1,41 @@
+# expression:  request a taxi from <b class='fixed'>airport</b> to <b class='fixed'>home</b>
+
+divergence	coming from airport to home.
+divergence	going to airport from home.
+divergence	get back from airport to the home.
+
+valid	please send a taxi for home from airport
+valid	can you send a taxi from airport to home
+valid	can you send me a taxi for home , I am at airport.
+
+valid	request a taxi from airport to home please
+valid	I request a taxi from airport to home
+valid	request a taxi from airport to home now
+
+valid	a taxi from airport to home
+valid	taxi from airport to home
+divergence	from airport to home
+
+valid	send for a taxi to take me home from the airport
+valid	I need a taxi from the airport to my home
+valid	find me an airport taxi to bring me home when my plane arrives
+
+divergence	need a truck to carry table from airport to home
+valid	request to book car from airport to home
+divergence	need a cup of coffee while leaving from airport to home
+
+valid	request a ride from airport to home
+valid	I need a taxi to drive me from airport to home
+valid	I need a ride from airport to home
+
+divergence	my friends are coming airport to pick up me and drop my home
+valid	could you organize a taxi for me from airport to home?
+divergence	first time, I am going outside from home to airport
+
+cheating	request a taxi from airport to homeyt
+cheating	request a taxi from airport to homev
+cheating	request a taxi from airport to homem
+
+valid	I need a taxi from the airport to my home
+valid	a quick taxi please, guide me from the airport to my home
+valid	taxi from the airport to home as fast as possible

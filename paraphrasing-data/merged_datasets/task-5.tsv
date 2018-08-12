@@ -1,0 +1,81 @@
+# expression: I am wondering if there is any direct flight departing on Friday to Tehran?
+
+valid,	is there any direct flight to Tehran on Friday?
+valid,	what flights are available to Tehran on Friday?
+valid,	is any flight available to Tehran on Friday
+
+cheating,	what is special on Friday in Tehran
+cheating,	is Friday the weekend in Tehran ?
+cheating,	what is the best thing to do on Friday in Tehran.
+
+cheating,	Tehran direct flight to istanbul on Friday
+cheating,	Tehran direct flight to vienna on Friday
+cheating,	Tehran direct flight to copenhagen on Friday
+
+valid,	is there a direct flight to Tehran on Friday
+valid,	can I fly to Tehran directly on Friday
+valid,	is there a direct flight on Friday to Tehran
+
+valid,	I would like to fly on Friday to Tehran
+cheating,	that made Friday in Tehran
+cheating,	I saw you on Friday in the streets of Tehran
+
+valid,	is there a direct flight to Tehran on Friday
+valid,	are there Tehran flights on Friday that are direct
+valid,	on Friday are there any direct flights to Tehran
+
+valid,	I want to know direct flights to Tehran this Friday
+valid,	I need information about direct flights to Tehran for next Friday
+valid,	may I know if there is any direct flight this Friday to Tehran?
+
+cheating,	this is nice to listen for that here is have a flight departing on Friday to Tehran
+cheating,	wow! this is good for mme that there is flight departing on Friday to Tehran
+cheating,	I am so happy to listen that here is a flight for me which departing on Friday to Tehran
+
+valid,	cheapest flights deals to Tehran on Friday.
+cheating,	my booking in confirmed to pakistan via Tehran on Friday
+cheating,	adjust prices for tickets from Tehran to kish island based on the Fridayday
+
+valid,	is there a flight to Tehran on Friday?
+valid,	find me direct flights to Tehran this Friday
+valid,	which companies fly to Tehran this Friday?
+
+valid,	are there any direct flights to Tehran that depart on Friday?
+valid,	how many direct flights are there to Tehran on Friday?
+valid,	I am curious to know if there is a direct flight to Tehran on Friday.
+
+valid,	any departures to Tehran on Friday
+valid,	any direct flights to Tehran on Friday
+valid,	any direct flight on Friday to Tehran
+
+cheating,valid,	it will be good if there is any direct flight departing on Friday to Tehran?
+cheating,grammar,	here should be there is any direct flight departing on Friday to Tehran?
+valid,cheating,	I want to know if there is any direct flight departing on Friday to Tehran?
+
+valid,	curious to know if I can depart on Friday from a direct flight to Tehran.
+valid,	is there an airplane directly to Tehran this Friday?
+valid,	would leave on Friday if there is a direct flight to Tehran.
+
+valid,	is any direct flight departing on Friday to Tehran
+valid,	is any flight departing on Friday to Tehran
+valid,	is any direct international flight departing on Friday to Tehran
+
+valid,	can I fly direct to Tehran on Friday
+valid,	show me the flights to Tehran on Friday
+valid,	on Friday can I get a direct flight to Tehran
+
+valid,	I wonder if there is any straight flight to Tehran on Friday?
+valid,	could you tell me if there is an international flight leaving directly to Tehran on Friday?
+valid,	may I know if any flight will be connecting directly to Tehran on Friday?
+
+cheating,	exactly on Friday to Tehran
+cheating,	depart Friday to Tehran
+cheating,	go_away go_away
+
+cheating,	I wonder if there is a direct flight leaving on Friday to Tehran. direct flight
+cheating,	I wonder if there is a direct flight that departs on Friday to Tehran. go away
+cheating,	I wonder if there is a direct flight that departs on Friday to Tehran. exactly
+
+cheating,	I wonder if there is a direct domestic flight that departs on Friday in Tehran.
+cheating,	I wonder if there is any direct flight exactly leave Friday for Tehran.
+cheating,	I wonder if there is a direct flight that departs on Friday to Tehran and reflect

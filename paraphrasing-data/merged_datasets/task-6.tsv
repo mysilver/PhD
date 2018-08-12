@@ -1,0 +1,81 @@
+# expression: I need a flight from Tehran to Sydney
+
+valid,	is there any flight from Tehran to Sydney.
+valid,	I want a flight from Tehran to Sydney
+valid,	reserve a flight from Tehran to Sydney
+
+valid,	I need a flight from Tehran to Sydney
+valid,	I require a flight from Tehran to Sydney
+valid,	I want a flight from Tehran to Sydney
+
+valid,	book a flight from Tehran to Sydney.
+valid,	get me a ticket for Sydney from Tehran.
+valid,	reserve a seat for me on a plane flying to Sydney from Tehran.
+
+valid,	requiring a flight from Tehran to Sydney
+valid,	I request a flight from Tehran to Sydney
+valid,	I want a flight from Tehran to Sydney
+
+valid,	I want to travel from Tehran to Sydney
+valid,	I'm searching for a flight from Tehran to Sydney
+valid,	where can I buy a flight from Tehran to Sydney?
+
+valid,	need a flight from Tehran to Sydney
+valid,	I need a flight from Tehran to Sydney
+divergence,	you need a flight from Tehran to Sydney
+
+valid,	I need to get a flight from Tehran to Sydney
+divergence,	I could get a flight from Tehran to Sydney
+valid,	I need to look for a flight from Tehran to Sydney
+
+valid,	I'm looking for a flight from Tehran to Sydney
+valid,	I require a flight from Tehran to Sydney
+divergence,	I bought a flight from Tehran to Sydney
+
+valid,	I want to fly from Tehran to Sydney
+valid,	looking to fly from Tehran to Sydney
+valid,	Tehran to Sydney is the flight I need
+
+valid,	I want a flight from Tehran to Sydney.
+valid,	need a flight from Tehran to Sydney
+valid,	I need a Tehran to Sydney flight.
+
+valid,	I want to book a flight from Tehran to Sydney
+valid,	can I reserve a flight from Tehran to Sydney
+divergence,	I will be taking a flight from Tehran to Sydney
+
+grammar,	I'm looking for plane flight for Tehran to Sydney.
+valid,	I want to find a flight from Tehran to Sydney.
+valid,	I must have a flight to Sydney from Tehran.
+
+valid,	I require a flight from Tehran to Sydney
+valid,	Tehran to Sydney flights
+valid,	flights from Tehran to Sydney
+
+valid,	flight from Tehran to Sydney
+valid,	cheap flight from Tehran to Sydney
+valid,	Tehran to Sydney flights
+
+valid,	I am in need of a flight from Tehran to Sydney
+valid,	may I get a flight from Tehran to Sydney
+valid,	I need an airliner from Tehran to Sydney
+
+valid,	which flights go from Tehran to Sydney
+valid,	show a list of flights from Tehran to Sydney
+valid,	which flights are available from Tehran to Sydney
+
+valid,	I would like to know which airlines fly from Tehran to Sydney?
+valid,	can I book a direct flight from Tehran to Sydney?
+valid,	I am in search of a flight from Tehran to Sydney
+
+valid,	I must get a flight from Tehran to Sydney
+valid,	I want a flight from Tehran to Sydney
+valid,	I need to get a flight from Tehran to Sydney
+
+valid,	I should get a flight to Sydney from Tehran
+valid,	I would like to get an airplane going to Sydney from Tehran
+valid,	I need to connect a flight from Tehran to Sydney
+
+valid,	should_have a flight from Tehran to Sydney
+grammar,	I need a airplane from Tehran to Sydney
+valid,	I want a flight from Tehran to Sydney

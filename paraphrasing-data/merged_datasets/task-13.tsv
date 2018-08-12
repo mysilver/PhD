@@ -1,0 +1,81 @@
+# expression: are the burglar alarms in the office malfunctioning ?
+
+valid,	are burglar alarms in office not working.
+spelling,	are burgular alarms in office out of order
+valid,	what is security working status of burglar alarm in office.
+
+answer,	burglar alarm is sometime malfunctioning
+answer,	burglar alarm is not malfunctioning
+answer,	burglar alarm is very often malfunctioning
+
+cheating,	invaild invaild
+cheating,	invaild in vaild
+cheating,	invalid invalid
+
+valid,	are the office alarms working
+valid,	are the office alarms functioning
+valid,	are the office burglar alarms working
+
+valid,	do the burglar alarms in the office work?
+valid,	are the burglar alarms in the office working?
+valid,	tell me if the burglar alarms in the office are malfunctioning ?
+
+valid,	are the burglar alarms being malfunctioned?
+valid,	show me the malfunctioned alarms which are not working in the office.
+valid,	where are those burglar alarms which are malfunctioned in the office?
+
+valid,	are the burglar alarms in the office not working ?
+valid,	are the thief alerts in the workplace breaking down ?
+valid,	are the thief alerts in the workplace not working ?
+
+valid,	are the office burglar alarms broken?
+valid,answer,	office alarms do not work
+valid,answer,	I think the office alarms are disconnected
+
+grammar,divergence,	why are the burglar system alarms is malfunctioning odd sometimes in the office
+answer,	malfunctioning burglar alarms should be replaced which are dangerous in the safery for office
+answer,	burglar alarms system was malfunctioing yesterday at the office and also the sound is low
+
+valid,	are alarms working?
+valid,	is there any problem with burglar alarms?
+valid,	office alarms are ok?
+
+valid,	are the burglar alarms in the office defective?
+valid,	do the burglar alarms in the office work?
+valid,	are the burglar alarms in the office faulty?
+
+spelling,	if a robber broke in to our office would the burglar alarm work?
+valid,	is the alarm bell in our work place defective?
+spelling,	is the burglar alarm faulty in our work place?
+
+valid,answer,	burglar alarms in the office malfunctioning
+cheating,	smoke alarms in office
+cheating,	defective alarms in office
+
+cheating,	invaild invalid,.
+cheating,	invaild invalid
+cheating,	invalid invalid ..
+
+valid,	are the burglar alarms in the office inoperative
+valid,	are the burglar alarms in the office functioning
+valid,	are the burglar alarms in the office valid
+
+valid,	is the burglar alarm in the office working properly
+valid,	is the alarm in the office broken
+valid,	is there a malfunctioning alarm in the office
+
+valid,	are the security alarms in the office dysfunctional?
+valid,	are the alarms inoperable in the office?
+valid,	are you aware if the burglary systems in the office are validated?
+
+valid,	are the burglar detectors in the office not working??
+valid,	are the burglar alarms at the office in working condition?
+valid,	are the anti-robbery sirens in the office in working order?
+
+cheating,	smoke_detector in the office malfunctioning ?
+cheating,	smoke_alarm in the office malfunctioning ?
+cheating,	thief in the office malfunctioning ?
+
+cheating,	sadsadsasdsd
+cheating,	sdadaddsdsdsd
+cheating,	dsssdsdsdssds

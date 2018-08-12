@@ -1,0 +1,41 @@
+# expression: suggest a few nice photos about <b class='fixed'>Opera House</b>
+
+divergence	a good Opera House
+divergence	beautiful Opera House
+divergence	great Opera House
+
+valid	suggest a photos of Opera House
+valid	give a suggestion on Opera House photos
+valid	suggest me a few good photos of Opera House
+
+valid	suggest a few nice photos about Opera House
+valid	suggest a few very nice photos about Opera House
+valid	suggest a few good photos about Opera House
+
+valid	show me nice Opera House photos.
+valid	I want to see nice Opera House photos.
+valid	open nice Opera House photos.
+
+translate	el frente es buen
+translate	la tarima sin duda
+translate	y la sala tambien
+
+divergence	I love the Opera House
+divergence	I haven't gotten a chance to see the Opera House
+divergence	looking. forward to seeing the Opera House
+
+divergence	how many nice photos you have in Opera House
+valid	I need a few nice photos of Opera House
+divergence	we suggest you to see few nice photos of Opera House
+
+grammar	let me be suggest a few nice photos about Opera House
+valid	can you suggest me a few nice photos of Opera House
+valid	please suggest me a few nice photos about Opera House
+
+translate	el fondo de mi casa
+translate	la sala es perfecta
+translate	la cosina es buena
+
+divergence	carry back a shallow mindful photos hard by Opera House
+divergence	resemble a short discriminating photos fast by Opera House
+divergence	correspond a littlest blissful photos apropos Opera House

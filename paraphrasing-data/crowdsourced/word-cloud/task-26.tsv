@@ -1,0 +1,41 @@
+# expression:  are there any cheap hotels for <b class='fixed'>7</b> days stay somewhere near <b class='fixed'>Disneyland</b>
+
+valid	I would like to stay in a hotel near Disneyland for 7 days
+valid	are there any affordable lodging options near Disneyland for 7 days
+valid	we will be staying for 7 days and I would like to find an available resort near Disneyland
+
+valid	inexpensive hotels near Disneyland for a 7 day stay
+valid	nearby Disneyland hotels for 7 nights
+valid	affordable hotels near Disneyland for 7 days
+
+valid	any inexpensive hotels near Disneyland for 7 days stay?
+grammar	cheapest lodge nearby Disneyland for 7 days stay
+grammar	for a 7 days stay which is the affordable hotel near Disneyland
+
+valid	show me the list cheap hotels for 7 days stay somewhere near Disneyland
+valid	tell me any cheap hotels for 7 days stay somewhere near Disneyland
+spelling	are there any cheap hotels for 7 days stay anywhhere near Disneyland
+
+valid	identify any cheap hotels for 7 days stay in vicinity of Disneyland
+valid	name any motel for 7 days stay in vicinity of Disneyland
+valid	list any motel for 7 days stay in vicinity of Disneyland
+
+valid	find a cheap hotel near Disneyland for 7 days
+valid	search for low priced hotels near Disneyland for a 7 day stay
+valid	find somewhere cheap for a 7 day stay near the location of Disneyland
+
+valid	I need a cheap hotel for 7 nights near Disneyland
+valid	what inexpensive hotels are available for 7 days in the vicinity of Disneyland
+valid	I would like to book a cheap motel near Disneyland for 7 days
+
+valid	find cheap hotel for 7 days near Disneyland
+valid	locate inexpensive hotel near Disneyland for 7 days
+spelling	find cheap accomodation for 7 days neat Disneyland
+
+valid	budget hotel for 7 day stay near Disneyland
+spelling	didneyland low cost accomodation 7 day stay
+valid	low price 7 day stay near Disneyland
+
+valid	are there any inexpensive hotels for 7 days stay somewhere near Disneyland
+valid	are there any low cost hotels for 7 days stay somewhere near Disneyland
+valid	are there any cheap hotels for 7 days stay somewhere close to Disneyland

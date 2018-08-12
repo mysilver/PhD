@@ -1,0 +1,41 @@
+# expression: tell me about the weather in <b class='fixed'>NYC</b>
+
+valid	how is weather in NYC
+valid	what are weather conditions in NYC
+valid	how is weather conditions in NYC
+
+valid	what is weather in NYC
+valid	which type of weather in NYC
+spelling	tell me about the typeweather in NYC
+
+valid	show me the weather broadcast for NYC.
+valid	what will be the weather like in NYC?
+valid	how will be the weather like in NYC?
+
+valid	what's the weather in NYC
+answer	it's going to rain in NYC
+answer	it will be sun shine in NYC
+
+valid	show weather reports for NYC
+valid	how is the weather in NYC?
+valid	what is the forecast for NYC?
+
+valid	what is the weather like in NYC
+valid	tell me NYC forecast
+valid	I want information about NYC weather
+
+valid	tell me what the weather is like in NYC
+valid	look for, what climate does it in NYC
+valid	find me what the weather is like in NYC
+
+valid	what is the current weather in NYC?
+valid	can you tell me about the weather forecast in NYC now?
+valid	could you tell me the detailed hourly weather forecast in NYC?
+
+valid	NYC weather
+valid	NYC weather updates
+valid	today weather in NYC
+
+valid	how is the weather in NYC
+valid	what is the weather like in NYC
+valid	could you please provide some information about the weather in NYC

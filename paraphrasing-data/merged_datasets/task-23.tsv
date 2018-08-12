@@ -1,0 +1,81 @@
+# expression: let me have top three convenience stores near Newtown
+
+valid,	let me have three excellent stores near Newtown
+valid,	give me the chance to have three excellent stores near Newtown
+valid,	give me the opportunity to have three excellent stores near Newtown
+
+valid,	give me a list of top three convenience stores near Newtown
+valid,	any suggestion for three convenience stores near Newtown
+valid,	get a list of top three convenience stores near Newtown
+
+valid,	show me top three convenience stores near Newtown
+valid,	list top three convenience stores near Newtown
+valid,	what are the top three convenience stores near Newtown
+
+valid,	I need a list of three Newtown area convenience shops.
+valid,	can you recommend three convenience stores around Newtown.
+valid,	which three convenience shops are the best in Newtown.
+
+valid,	take me to the three best stores that are near Newtown
+valid,	where are the three stores near Newtown
+valid,	three stores near Newtown
+
+valid,	let me get three best stores near Newtown
+valid,	I hope to have three excellent stores near Newtown
+divergence,	I hope to own three large stores near Newtown
+
+valid,	give me a chance to have top three convenience stores close to Newtown.
+valid,	allow me to have top three convenience stores close to Newtown.
+valid,	let me able to have top three convenience stores near Newtown.
+
+valid,	I want to have three best stores near Newtown
+valid,	let me have the three best stores near Newtown
+divergence,	I'm going to have three best stores near Newtown
+
+valid,	what are the top three convenience stores near Newtown?
+valid,	give me a list of top three convenience stores near Newtown.
+valid,	could you please furnish me the names of top three convenience stores near Newtown?
+
+valid,	you could let me have three better stores near Newtown
+valid,	I want to have the three best stores near Newtown
+divergence,	you could have the three best stores near Newtown
+
+valid,	what are the top three convenience stores in Newtown
+valid,	are any of the top three convenience stores in Newton nearby
+divergence,	do any of the top three convenience stores in Newton sell gasoline?
+
+valid,	searching in Newtown for top three convenience retailers
+valid,	I want to find top three convenience stores close to Newtown
+valid,	looking for the top three convenience stores right close to Newtown
+
+cheating,	top three convenience stories near Newtown
+cheating,	tell me top three convenience stories near Newtown
+cheating,	there is top three convince stories near Newtown
+
+grammar,	I need to know which is the top three convenience store near to Newtown
+grammar,	I found plenty of grocery stores but I need to know which is top 3 among the whole near Newtown
+grammar,	there are any good stores available near to Newtown? if yes then which is top three?
+
+valid,	top three convenience stores near Newtown
+valid,	top three supermarkets near Newtown
+divergence,	top three warehouses near Newtown
+
+valid,	show me the top three convenience stores near Newtown
+valid,	top three supermarkets near Newtown
+valid,	which are the best three convenience stores in Newtown
+
+valid,	I need the best three supermarkets around Newtown
+valid,	can I get the top three grocery stores near Newtown
+valid,	may I have top three convenience stores close to Newtown
+
+valid,	let me have top three convenience stores in Newtown
+valid,	let me have top three convenience stores near Newtown
+grammar,	let me have top three grocery in Newtown
+
+cheating,	let me have three best stores near Newtown highest
+cheating,	let me have three best stores near Newtown for four
+cheating,	let me have three best stores near Newtown to have nearby grocery stores
+
+valid,	give me top three grocery stores near Newtown
+spelling,	find me top three convenience stores I the vicinity of Newtown
+valid,	search top three grocery stores close to Newtown for me

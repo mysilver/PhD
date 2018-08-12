@@ -1,0 +1,73 @@
+# expression: is the tv in the house off ?
+
+cheating,	dfhtfghtfgh
+cheating,	fsdfsseref
+cheating,	fhggfdfetyth
+
+valid,	is the tv off in the house?
+valid,	is the tv off ?
+valid,	is there tv off in the house
+
+valid,	is the tv in the house turned off ?
+valid,	is the tv in the house off now?
+valid,	is the tv in the house off or on ?
+
+divergence,	make sure the tv in the house is off
+divergence,	turn the tv in the house off.
+divergence,	the tv in the house should be off.
+
+translate,	la predo de nuevo
+translate,	y veo mi serie favorita
+translate,	q seria bot esponja
+
+cheating,grammar,	do you know is the tv in the house off?
+grammar,cheating,	let me know is the tv in the house off?
+cheating,grammar,	inquire is the tv is the house off?
+
+divergence,cheating,	is the car parked in the garage
+cheating,divergence,	are the children in school
+divergence,cheating,	can I come over to your place
+
+cheating,grammar,	do you know is the tv in the house off?
+valid,	what is the status of the tv in the house?
+grammar,	can you told me is the tv in the house off?
+
+translate,	esta prendida en la sala
+translate,	en el cuarto tambien
+translate,	estamos viendo
+
+cheating,	is the tv sympathy the birth deluded ?
+cheating,	is the tv entree the room out of harness ?
+cheating,	is the tv entranceway the pocket wanting ?
+
+valid,divergence,	did you turn the television set off?
+valid,	is the tv at home turned off?
+valid,divergence,	did you turn the tv off when you left the house?
+
+valid,	is the tv set turned off at the house?
+valid,	the television set at the residence off?
+valid,	is the tv at home off?
+
+cheating,	invalid invalid .
+cheating,	invalid invalid ?
+cheating,	??????????????????
+
+cheating,	did you watch news at 9 pm yesterday?
+cheating,valid,	is your television at your house working?
+cheating,	did you repair your television at your residence?
+
+valid,	is the television set off
+divergence,	is the telecast off
+divergence,	is the telecast off in the apartment
+
+valid,	is the tv turned off
+valid,	is the television switched off in the house
+valid,	can you ensure the tv is turned off in the house
+
+spelling,	can you check if the tv in the house if off please?
+divergence,	can you turn off the tv in the house if it's on?
+grammar,	have you check that the tv in the house is not on?
+
+divergence,	is the television_programs in the house off ?
+valid,	is the tv in the mansion off ?
+valid,	did I leave the tv on in the house?

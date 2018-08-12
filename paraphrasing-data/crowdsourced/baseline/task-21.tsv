@@ -1,0 +1,41 @@
+# expression: find most popular photos tagged <b class='fixed'>#LOVE</b>
+
+grammar	most popular #LOVE photo
+grammar	find #LOVE most popular photo
+grammar	show me #LOVE most popular photo
+
+cheating	#LOVE my puppy
+cheating	#LOVE my country
+cheating	#LOVE my mom
+
+divergence	#LOVE #instagood
+spelling	photooftheday#LOVE
+divergence	#LOVE#beautiful
+
+valid	search for photos tagged #LOVE that are popular
+valid	look for photos that are both popular and have the #LOVE hashtag
+valid	find photos tagged #LOVE that are also popular
+
+valid	show me the top photos with the tag #LOVE
+valid	trending photos tagged #LOVE
+valid	what are the most popular tagged #LOVE pictures
+
+divergence	I hope you go well #LOVE
+divergence	search articles beautiful #LOVE
+divergence	I got on the internet many followers #LOVE
+
+valid	please search most popular which has a tag #LOVE
+grammar	#LOVE most popular photos
+grammar	search most popular taged photos with #LOVE
+
+valid	search for pictures with the tag #LOVE
+valid	looking for the most viewed pictures that includes the tag #LOVE
+valid	check for pictures with the tag #LOVE
+
+grammar	top #LOVE photo #LOVE
+valid	#LOVE photos
+grammar	most high rating photo #LOVE
+
+valid	find me the most popular photos tagged #LOVE
+valid	I want to see images tagged #LOVE
+valid	I wish to see images tagged #LOVE

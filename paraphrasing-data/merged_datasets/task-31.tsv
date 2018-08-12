@@ -1,0 +1,81 @@
+# expression: send an email to Phil telling her that "I got you!"
+
+valid,	"I got you!" phil.
+valid,	Tell phil that "I got you!"
+divergence,	Phil tell her that "I got you!"
+
+valid,	tell phil that I got you! by email
+valid,	Send email to phil to let her know that I got you!
+valid,	Send an email to phil by writing that I have got you!
+
+valid,	email to phil and tell her "I got you!"
+valid,	email phil telling her that "I got you!"
+valid,	send phil and tell "I got you!"
+
+valid,	send an email to phil that "I got you!"
+valid,	send an email to phil saying her that "I got you!"
+valid,	send an important email to phil that "I got you!"
+
+cheating,	hhhhhhhhhhh
+cheating,	jjjjjjjjjjjjjjj
+cheating,	yyyyyyyyyyyyy
+
+cheating,	an email to phil telling her that "I got you!"
+cheating,	a email to phil telling her that "I got you!"
+cheating,	send a email to phil telling her that "I got you!"
+
+valid,	message him and convey to phil that "I got you!"
+valid,	convey the message to phil that "I got you!"
+valid,	let phil know "I got you!"
+
+valid,	email phil "I got you!"
+valid,	create an email to phil and write "I got you!"
+valid,	please email phil and tell her "I got you!"
+
+cheating,	send an eamil to phil disclosing to her that " I got you!"
+cheating,	make fun of an email so as to phil damning alert that " I got you!"
+cheating,	summon an email over against phil energetic my self that " I got you!"
+
+valid,	tell phil "I got you!"
+valid,	email phil "I got you!"
+valid,	message phil "I got you!"
+
+valid,	please send the e-mail to Phil saying "I got you"
+valid,	compose an email to Phil with the phrase "I got you"
+valid,	explain to Phil in the email that "I got you"
+
+valid,	message Phil, tell her I got you
+valid,	explain to Phil that I got you
+valid,	email Phil and tell her I got you
+
+valid,	send a email to Phil telling her that "I got you"
+valid,	tell to Phil via email about her that "I got you"
+valid,	you send an email to Phil telling her that "I got you"
+
+divergence,misuse,	send a mail_out to Phil telling her that "I got you"
+valid,	send a message to Phil for informing her that "I got you"
+valid,	call Phil and explain her that "I got you"
+
+grammar,	transmit an email to Phil telling her that "I got you"
+valid,	email Phil telling her that "I got you"
+divergence,misuse,	dispatch an email to Phil telling her that "I got you"
+
+valid,	email Phil telling her I got you
+valid,	send Phil an email saying I got you
+valid,	write an email to Phil and say I got you
+
+valid,	email Phil to notify her that I got you
+valid,	send message to Phil to inform her I got you
+valid,	tell Phil by email that I got you
+
+valid,	email Phil saying I got you
+valid,	email Phil telling her I got you
+valid,	send an email to Phil to say I got you
+
+valid,	forward an email to Phil to inform her that I got you
+valid,	tell Phil by email that I got you
+valid,	draft an email to Phil stating that I got you
+
+grammar,	Phil send telling her that "I got you"
+grammar,	Phil tell I got you
+valid,	send an electronic mail telling I got you Phil

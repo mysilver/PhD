@@ -1,0 +1,81 @@
+# expression: I want reviews for McDonald at Kensington st.
+
+valid,	show me some opinions about the McDonalds at Kensington st.
+valid,	show me some reviews for McDonald at Kensington st.
+spelling,	show me evualuations of users for the McDonald at Kensington st.
+
+cheating,	I want reviews g for McDonald at Kensington st.
+cheating,	I want for reviews for McDonald at Kensington st.
+cheating,	I want reviegws for McDonald at Kensington st.
+
+cheating,	I want to do reviews for McDonald's in Kensington st.
+cheating,	I would like to do reviews for McDonald's in Kensington st.
+cheating,	I could do reviews for McDonald's in Kensington st.
+
+divergence,	location of McDonald in Kensington st.
+divergence,	recommendations of McDonald en Kensington st.
+divergence,	McDonald in Kensington st.
+
+valid,	urgently prepare reviews for McDonald at Kensington st.
+valid,	for McDonald at Kensington st. I need feedback
+divergence,	when will the reviews for McDonald at Kensington st.
+
+valid,	I want opinions for McDonald at Kensington st.
+valid,	I want to know what people think about McDonald at Kensington st.
+valid,	I need different opinions for McDonald at Kensington st.
+
+valid,	could you send me the reviews for McDonald at Kensington st.
+grammar,	is there any review for McDonald at Kensington st. in internet
+valid,	do you know any blog to find a review for McDonald at Kensington st.
+
+valid,	I look for McDonald's reviews in Kensington st.
+valid,	I require reviews for McDonald's in Kensington st.
+valid,	I need reviews for McDonald's in Kensington st.
+
+valid,	what are reviews for McDonald Kensington st.
+valid,	is there any review available for McDonald Kensington st.
+valid,	how is services at McDonald Kensington st.
+
+valid,	I need reviews for McDonald at Kensington st.
+valid,	I want to see reviews for McDonald at Kensington st.
+valid,	I wish to see reviews for McDonald at Kensington st.
+
+valid,	where can I find reviews for the McDonald on Kensington st.
+valid,	are the reviews for McDonald on Kensington st. any good?
+valid,	I want to get some reviews for the McDonald on Kensington st.
+
+valid,	can you show me Kensington st. McDonald reviews
+valid,	show me a reviewer comments for Kensington st. McDonald
+valid,	I wish to see a review for the Kensington st. McDonald
+
+grammar,divergence,	I have some experience reviews for McDonald at Kensington st.
+divergence,	I want to tell you about McDonald at Kensington st.
+divergence,grammar,	I have very good review for McDonald at Kensington st.
+
+valid,	McDonald reviews at Kensington st.
+valid,	opinions of McDonald Kensington st.
+valid,	views of McDonald Kensington st.
+
+valid,	demonstrate reviews for McDonald at Kensington st.
+divergence,grammar,	release reviews for McDonald at Kensington st
+valid,	go for reviews for McDonald at Kensington st
+
+valid,	show me a review for McDonald on Kensington st.
+valid,	reviews for the Kensington st. McDonald
+valid,	what do the critics say about the McDonald on Kensington st.
+
+divergence,	I would like updates for McDonald at Kensington st.
+valid,	send me some assessments for McDonald at Kensington st.
+valid,	when should I expect to receive the critique for McDonald at Kensington st.
+
+valid,	need McDonald at Kensington st reviews
+valid,	find reviews for McDonald on Kensington st
+divergence,	locate mcdaonald on Kensington st reviews
+
+divergence,	I want to make some good reviews for McDonald's in Kensington st.
+valid,	I should have a lot of reviews for McDonald's in Kensington st.
+divergence,	I hope to make excellent reviews for McDonald's in Kensington st.
+
+valid,	I want feedbacks for McDonald at Kensington st.
+valid,	I need reviews for McDonald at Kensington st.
+valid,	I need feedback for McDonald at Kensington st.

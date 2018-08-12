@@ -1,0 +1,33 @@
+# expression:  is the tv in the house off ?
+
+valid	did you turn the television set off?
+valid	is the tv at home turned off?
+valid	did you turn the tv off when you left the house?
+
+valid	is the tv set turned off at the house?
+valid	the television set at the residence off?
+valid	is the tv at home off?
+
+cheating	invalid invalid .
+cheating	invalid invalid ?
+cheating	??????????????????
+
+divergence	did you watch news at 9 pm yesterday?
+divergence	is your television at your house working?
+divergence	did you repair your television at your residence?
+
+valid	is the television set off
+valid	is the telecast off
+valid	is the telecast off in the apartment
+
+valid	is the tv turned off
+valid	is the television switched off in the house
+valid	can you ensure the tv is turned off in the house
+
+valid	can you check if the tv in the house if off please?
+valid	can you turn off the tv in the house if it's on?
+grammar	have you check that the tv in the house is not on?
+
+divergence	is the television_programs in the house off ?
+valid	is the tv in the mansion off ?
+valid	did I leave the tv on in the house?

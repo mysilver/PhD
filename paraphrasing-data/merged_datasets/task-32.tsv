@@ -1,0 +1,81 @@
+# expression: skip to the next song
+
+cheating,	23hfhfhshsdsad
+cheating,	fdhhjgdfde
+cheating,	aweerdscsdg
+
+divergence,	skip to the next song which is boring
+valid,	skip to the next song please
+valid,	skip to the next song now
+
+valid,	play next song
+valid,	do play next song by skipping it
+valid,	please jump to next song
+
+translate,	chambea jala cabron
+translate,	ya no te quedan balas
+translate,	yo siempre picheo
+
+valid,	skip this song
+valid,	play the next song
+valid,	go to the next song
+
+valid,	go to the next song
+valid,	next song please
+valid,	the next song
+
+cheating,	unvalid unvalid.
+cheating,	unvaild unvalid
+cheating,	unvalid unvalid
+
+translate,	bailablesss
+translate,	vallenatossss
+translate,	y no se puede olvidar la salsa
+
+valid,	go to the next song.
+valid,	next song, please.
+valid,	play a different song.
+
+valid,	can you please skip to the next song
+cheating,	his phone will skip to the next song
+grammar,cheating,	I had to skip to the next song
+
+valid,	can you skip this song and play the next one?
+valid,	I don't like this song. can you play the next one?
+valid,	I would like to hear another ballad can you skip this song?
+
+valid,	play next song
+valid,	jump to next song
+misuse,grammar,	recite next song
+
+cheating,	invalid invalid
+cheating,	invalid invalid/
+cheating,	invalid invalid .
+
+cheating,divergence,	is the song represents the anthem
+divergence,cheating,	is it necessary to skip the current song
+cheating,divergence,	does the current song represents the upcoming movie
+
+cheating,	scurry hymn
+cheating,	sing
+cheating,	game
+
+valid,	go to the next song
+valid,	go to the next melody
+misuse,cheating,	come the next sing
+
+valid,	play the song that is ahead
+valid,	I want to listen to the forthcoming melody.
+valid,	hop to the song that comes next.
+
+valid,	skip to the next song
+divergence,	skip to the next lyric
+valid,	go to the next song
+
+valid,	move to the next song
+valid,	jump to the next song
+valid,	fast track to the next song
+
+divergence,cheating,	final song
+valid,cheating,	skip that song
+cheating,divergence,	before song

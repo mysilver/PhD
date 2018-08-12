@@ -1,0 +1,81 @@
+# expression: find most popular photos tagged #LOVE
+
+divergence,	most popular #LOVE photo
+cheating,divergence,	find #LOVE most popular photo
+divergence,cheating,	show me #LOVE most popular photo
+
+cheating,	#LOVE my puppy
+cheating,	#LOVE my country
+cheating,	#LOVE my mom
+
+cheating,divergence,	#LOVE #instagood
+cheating,divergence,	photooftheday#LOVE
+divergence,cheating,	#LOVE#beautiful
+
+valid,	search for photos tagged #LOVE that are popular
+valid,	look for photos that are both popular and have the #LOVE hashtag
+valid,	find photos tagged #LOVE that are also popular
+
+valid,	show me the top photos with the tag #LOVE
+valid,	trending photos tagged #LOVE
+valid,	what are the most popular tagged #LOVE pictures
+
+cheating,	I hope you go well #LOVE
+cheating,	search articles beautiful #LOVE
+cheating,	I got on the internet many followers #LOVE
+
+valid,	please search most popular which has a tag #LOVE
+cheating,divergence,	#LOVE most popular photos
+spelling,	search most popular taged photos with #LOVE
+
+valid,	search for pictures with the tag #LOVE
+valid,	looking for the most viewed pictures that includes the tag #LOVE
+valid,	check for pictures with the tag #LOVE
+
+divergence,cheating,	top #LOVE photo #LOVE
+cheating,valid,	#LOVE photos
+cheating,divergence,	most high rating photo #LOVE
+
+valid,	find me the most popular photos tagged #LOVE
+valid,	I want to see images tagged #LOVE
+valid,	I wish to see images tagged #LOVE
+
+valid,	find the most popular photos tagged with #LOVE
+valid,	I need to identify the most popular photos with the tag #LOVE
+valid,	what are the favorite photos tagged #LOVE
+
+valid,	locate well liked photos named #LOVE
+valid,	find famous photos called #LOVE
+valid,	can you get me the most popular pics that have a tag #LOVE
+
+valid,	top popular photos tagged #LOVE
+valid,	show me top most popular photos tagged #LOVE
+valid,	gimme the list of most popular photos tagged #LOVE
+
+valid,	#Love photes
+cheating,divergence,	#love popular photos
+valid,	locate popular #LOVE images
+
+valid,	most popular photos tagged #LOVE
+divergence,	uncover most popular photos tagged #LOVE
+valid,	find the most popular photographs tagged #LOVE
+
+divergence,	show me popular photos #LOVE
+divergence,	search for popular photographs #LOVE
+valid,	find the top photos which have #LOVE
+
+valid,	find prominent pictures tagged #LOVE
+valid,	look for popular photos with #LOVE
+valid,	uncover renowned photos with #LOVE tag
+
+valid,	discover most popular photos tagged #LOVE
+divergence,	stumble upon the most popular photos tagged #LOVE
+divergence,	unearth the most popular photos tagged #LOVE
+
+valid,	look for most influential photos tagged #LOVE
+valid,	get the most revered photos tagged #LOVE
+valid,	display most popular pictures marked #LOVE
+
+valid,	look for the most popular photographers tagged #LOVE
+divergence,	discover for the most popular photographers #LOVE
+divergence,	discover for the most influential photographers #LOVE

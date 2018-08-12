@@ -1,0 +1,41 @@
+# expression: I need a flight from <b class='fixed'>Tehran</b> to <b class='fixed'>Sydney</b>
+
+valid	is there any flight from Tehran to Sydney.
+valid	I want a flight from Tehran to Sydney
+valid	reserve a flight from Tehran to Sydney
+
+valid	I need a flight from Tehran to Sydney
+valid	I require a flight from Tehran to Sydney
+valid	I want a flight from Tehran to Sydney
+
+valid	book a flight from Tehran to Sydney.
+valid	get me a ticket for Sydney from Tehran.
+valid	reserve a seat for me on a plane flying to Sydney from Tehran.
+
+valid	requiring a flight from Tehran to Sydney
+valid	I request a flight from Tehran to Sydney
+valid	I want a flight from Tehran to Sydney
+
+valid	I want to travel from Tehran to Sydney
+valid	I'm searching for a flight from Tehran to Sydney
+valid	where can I buy a flight from Tehran to Sydney?
+
+valid	need a flight from Tehran to Sydney
+valid	I need a flight from Tehran to Sydney
+divergence	you need a flight from Tehran to Sydney
+
+valid	I need to get a flight from Tehran to Sydney
+divergence	I could get a flight from Tehran to Sydney
+valid	I need to look for a flight from Tehran to Sydney
+
+valid	I'm looking for a flight from Tehran to Sydney
+valid	I require a flight from Tehran to Sydney
+divergence	I bought a flight from Tehran to Sydney
+
+valid	I want to fly from Tehran to Sydney
+valid	looking to fly from Tehran to Sydney
+valid	Tehran to Sydney is the flight I need
+
+valid	I want a flight from Tehran to Sydney.
+valid	need a flight from Tehran to Sydney
+valid	I need a Tehran to Sydney flight.

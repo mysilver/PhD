@@ -1,0 +1,41 @@
+# expression:  is the tv in the house off ?
+
+cheating	dfhtfghtfgh
+cheating	fsdfsseref
+cheating	fhggfdfetyth
+
+valid	is the tv off in the house?
+valid	is the tv off ?
+valid	is there tv off in the house
+
+valid	is the tv in the house turned off ?
+valid	is the tv in the house off now?
+valid	is the tv in the house off or on ?
+
+divergence	make sure the tv in the house is off
+divergence	turn the tv in the house off.
+divergence	the tv in the house should be off.
+
+translate	la predo de nuevo
+translate	y veo mi serie favorita
+translate	q seria bot esponja
+
+valid	do you know is the tv in the house off?
+valid	let me know is the tv in the house off?
+valid	inquire is the tv is the house off?
+
+divergence	is the car parked in the garage
+divergence	are the children in school
+divergence	can I come over to your place
+
+valid	do you know is the tv in the house off?
+valid	what is the status of the tv in the house?
+grammar	can you told me is the tv in the house off?
+
+translate	esta prendida en la sala
+translate	en el cuarto tambien
+translate	estamos viendo
+
+cheating	is the tv sympathy the birth deluded ?
+cheating	is the tv entree the room out of harness ?
+cheating	is the tv entranceway the pocket wanting ?

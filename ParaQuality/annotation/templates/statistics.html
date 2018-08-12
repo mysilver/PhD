@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Annotate</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
+</head>
+<body style="padding:30px; padding-right:100px; padding-left: 100px">
+
+<div class="panel panel-default">
+    <div class="panel-heading">Paraphrase: <b style="color: darkgreen">{{expression}}</b></div>
+    <div class="table-responsive">
+            <table class="table table table-hover">
+
+                {% for t in keys %}
+                <tr>
+                    <td><b style="color: #ff5722">{{t}}</b></td>
+                    <td><b style="color: #ff5722">{{stats[t]}}</b></td>
+
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,41 @@
+# expression:  I am wondering if there is any direct flight departing on <b class='fixed'>Friday</b> to <b class='fixed'>Tehran</b>?
+
+valid	are there any direct flights to Tehran that depart on Friday?
+valid	how many direct flights are there to Tehran on Friday?
+valid	I am curious to know if there is a direct flight to Tehran on Friday.
+
+valid	any departures to Tehran on Friday
+valid	any direct flights to Tehran on Friday
+valid	any direct flight on Friday to Tehran
+
+valid	it will be good if there is any direct flight departing on Friday to Tehran?
+grammar	here should be there is any direct flight departing on Friday to Tehran?
+valid	I want to know if there is any direct flight departing on Friday to Tehran?
+
+valid	curious to know if I can depart on Friday from a direct flight to Tehran.
+valid	is there an airplane directly to Tehran this Friday?
+valid	would leave on Friday if there is a direct flight to Tehran.
+
+valid	is any direct flight departing on Friday to Tehran
+valid	is any flight departing on Friday to Tehran
+valid	is any direct international flight departing on Friday to Tehran
+
+valid	can I fly direct to Tehran on Friday
+valid	show me the flights to Tehran on Friday
+valid	on Friday can I get a direct flight to Tehran
+
+valid	I wonder if there is any straight flight to Tehran on Friday?
+valid	could you tell me if there is an international flight leaving directly to Tehran on Friday?
+valid	may I know if any flight will be connecting directly to Tehran on Friday?
+
+cheating	exactly on Friday to Tehran
+cheating	depart Friday to Tehran
+cheating	go_away go_away
+
+cheating	I wonder if there is a direct flight leaving on Friday to Tehran. direct flight
+cheating	I wonder if there is a direct flight that departs on Friday to Tehran. go away
+cheating	I wonder if there is a direct flight that departs on Friday to Tehran. exactly
+
+cheating	I wonder if there is a direct domestic flight that departs on Friday in Tehran.
+cheating	I wonder if there is any direct flight exactly leave Friday for Tehran.
+cheating	I wonder if there is a direct flight that departs on Friday to Tehran and reflect

@@ -1,0 +1,81 @@
+# expression: Any suggestions for a place to eat desserts in Newtown
+
+valid,	give me a place to have desserts in Newtown
+valid,	is there any place to have a dessert in Newtown?
+valid,	get me a list of places where I can have a dessert in Newtown
+
+valid,	recommend a place where they sell good desserts in Newtown
+valid,	tell me a good dessert business in Newtown
+valid,	you can tell me where I get a good dessert in Newtown
+
+valid,	where can I eat desserts in Newtown?
+grammar,	some place of desserts in Newtown
+answer,	in Newtown you can eat desserts
+
+valid,	could you give me any suggestions for a place to eat desserts in Newtown?
+divergence,	who could give me any suggestions for a place to eat desserts in Newtown
+divergence,	could someone give me any suggestions for a place to eat desserts in Newtown
+
+grammar,	where are there good desserts near Newtown
+valid,	where can I get dessert in Newtown
+valid,	what is a popular place in the Newtown area for dessert
+
+valid,	would you know any good place to eat desserts in Newtown?
+valid,	any idea on where to have desserts in Newtown?
+valid,	find me a good place to eat desserts in Newtown.
+
+valid,	what is the best place to eat desserts in Newtown?
+grammar,	tell my some places to eat desserts in Newtown
+valid,	what is the nearest place to eat desserts in Newtown?
+
+valid,	I need a suggestion for a place to eat desserts in Newtown
+valid,	I want a suggestion for a place to eat desserts in Newtown
+valid,	I'm looking for a suggestion for a place to eat desserts in Newtown
+
+valid,	do you know a place to eat desserts in Newtown
+valid,	where is the best place to eat desserts in Newtown
+spelling,	do you have a recommandation to eat desserts in Newtown
+
+divergence,	any suggestions for the places to visit in Newtown
+divergence,	any suggestions for a best restaurant in Newtown
+divergence,	any suggestions for a good coffee in Newtown
+
+valid,	who serves the best cheesecake in Newtown?
+spelling,	I would like to find the restaurant with the best deserts in Newtown?
+valid,	at which restaurant in newton can I find the best chocolate cake?
+
+valid,	can you suggest somewhere to eat a dessert in Newtown
+valid,	do you have an idea where I can eat desserts in Newtown
+valid,	I'm looking for a suggestion on where I could eat a dessert in Newtown
+
+valid,	any advice on best desserts in Newtown
+valid,	best places for desserts in Newtown
+valid,	Newtown restaurants with the best desserts
+
+valid,	place to eat desserts in Newtown
+divergence,	chocolate near Newtown
+divergence,	cheese cake in Newtown
+
+valid,	a place to eat desserts in Newtown
+valid,	a place to eat cake in Newtown
+valid,	a place to eat coffee cake in Newtown
+
+valid,	show places that serve desserts in Newtown
+valid,	where can I get a dessert in Newtown
+valid,	find places in Newtown that serve desserts
+
+valid,	any proposal regarding where I can have desserts in Newtown
+valid,	do you know an eatery where I can have desserts in Newtown
+valid,	where in Newtown can you recommend for me to have desserts
+
+valid,	do you have suggestions for a place to eat desserts in Newtown
+valid,	are there any suggestions for a place to eat desserts in Newtown
+valid,	can we get suggestions for a place to eat desserts in Newtown
+
+valid,	any idea for where to eat desserts in Newtown
+valid,	any idea for a place in Newtown to eat desserts
+valid,	suggest an ideal place for desserts in Newtown
+
+cheating,	constructive_criticism Newtown
+cheating,	pizza_parlor Newtown
+cheating,	toss_around Newtown

@@ -1,0 +1,41 @@
+# expression: I am hosting a party, what playlist do you suggest ?
+
+cheating	jjjjjjjjjdasd
+cheating	asadfffdffggf
+cheating	asfasdsffdsd
+
+valid	I am hosting a big party, what playlist do you suggest ?
+valid	I am hosting a party, what do you suggest in playlist ?
+valid	I am hosting a party, what playlist do you suggest to me ?
+
+valid	suggest me a playlist for the party I am throwing
+valid	do you have any playlist for my party
+valid	what playlist you will suggest for my party
+
+divergence	that party lasted all night
+divergence	I suggested him to play that song on the hosting party
+divergence	I am so pleased to be invited to this party and able playlist that song
+
+valid	what music do you suggest for the party
+divergence	what kind of music do I use for the party
+divergence	what music do I put at the party
+
+divergence	miami and las vegas
+divergence	new york place
+divergence	puerto rico pr
+
+valid	what playlist would you like to suggest while I am hosting a party
+valid	I am hosting a party, what kind of playlist will you like to suggest me?
+valid	which playlist you suggest me in my hosting party
+
+valid	suggest me a playlist
+valid	give me a playlist
+valid	get me a playlist suitable for a party
+
+answer	reggaeton buenos
+answer	salsa casino
+answer	y bailables
+
+valid	we are hosting a party, what playlist do you suggest ?
+valid	I am head of a party, what playlist do you suggest ?
+valid	hosting a party, what playlist do you suggest ?

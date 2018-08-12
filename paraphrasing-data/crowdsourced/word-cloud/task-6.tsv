@@ -1,0 +1,41 @@
+# expression: how far is the closest cab
+
+valid	how close is the nearest taxi
+valid	I would like to catch the nearest cab
+valid	how far in the nearest taxi
+
+valid	where is the nearest cab
+valid	how close is the nearest cab
+valid	location of the nearest cab
+
+cheating	??????????????????
+cheating	????????????????????
+cheating	invalid no word underline please fix it
+
+divergence	closest taxi
+valid	distance to nearest cab
+valid	how far is nearest cab
+
+cheating	close_together
+cheating	near
+cheating	bus
+
+divergence	is there any cab close_by?
+divergence	how_long does it take to reach the closest cab from here?
+divergence	can you tell me of a cab that is nearby?
+
+valid	how near is the closest cab
+valid	how far off is the closest jitney
+valid	how near is the closet cabby
+
+valid	where is the nearest taxi
+valid	how far is the cab
+valid	how far is the closest taxi
+
+valid	what is the distance of the closest taxi ?
+valid	how far is the cab which is nearby ?
+valid	how far away is the uber cab which is closer to me?
+
+valid	where is the closest cab
+valid	how far is the closest taxi
+valid	is a cab nearby

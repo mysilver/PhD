@@ -1,0 +1,41 @@
+# expression: create a <b class='fixed'>public</b> playlist named <b class='fixed'>NewPlaylist</b>
+
+valid	I need to build a public playlist that I would like to name NewPlaylist
+valid	my NewPlaylist that I have made is a public playlist
+valid	I would like to generate a public playlist and name it NewPlaylist
+
+valid	generate a public public playlist called NewPlaylist
+valid	build a public public playlist called NewPlaylist
+grammar	produce a a public public playlist called NewPlaylist
+
+valid	make a public playlist named NewPlaylist
+valid	create a public song list NewPlaylist
+valid	create a public playlist name NewPlaylist
+
+divergence	generate a NewPlaylist from public playlist
+divergence	copy song from public playlist to named NewPlaylist
+divergence	build a NewPlaylist from the public playlist
+
+cheating	construct a public playlist named NewPlaylist
+cheating	establish a public playlist named NewPlaylist
+cheating	develop a public playlist named NewPlaylist
+
+valid	make a public playlist and call it NewPlaylist
+valid	create a new public playlist called NewPlaylist
+valid	create a public playlist of music and call it NewPlaylist
+
+valid	I would like to build a public playlist called NewPlaylist
+divergence	my NewPlaylist music is public
+divergence	I would like to compile a public playlist and name it NewPlaylist
+
+cheating	engender a public playlist named NewPlaylist
+cheating	cultivate a public playlist named NewPlaylist
+cheating	nominate a public playlist named NewPlaylist
+
+cheating	I public NewPlaylist
+cheating	you public NewPlaylist
+cheating	I public NewPlaylist you
+
+cheating	create a public playlist called NewPlaylist to invent
+cheating	create a public playlist called NewPlaylist to cultivate the genre
+cheating	create a public playlist called new playlist to know

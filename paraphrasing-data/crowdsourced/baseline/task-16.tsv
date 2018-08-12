@@ -1,0 +1,41 @@
+# expression: estimate the taxi fare from the <b class='fixed'>airport</b> to <b class='fixed'>home</b>
+
+valid	how much for taxi from airport to home
+grammar	what are fare charges for taxi from airport to home
+valid	how much I have to pay for taxi from airport to home
+
+answer	airport to home is $50
+answer	airport to home is $38
+answer	airport to home is $56
+
+divergence	how long it takes from shamshabad airport to my home
+divergence	how far is shamshabad airport from my home
+divergence	what is the distance between hyderabad international airport to my home
+
+valid	how much approximately is a taxi from the airport to home
+grammar	what might the taxi fare be home from the airport
+valid	approximately how much will I pay for a taxi home from the airport
+
+grammar	what will be the estimate fair from airport to home
+grammar	please give me the estimate fair from airport to home
+grammar	tell me the estimate fair from airport to home
+
+divergence	find a taxi to take me home from the airport
+divergence	how long does it take a taxi from home to the airport
+divergence	that is expensive is the taxi ride from the airport to home
+
+valid	what is the fare of taxi from airport to home
+valid	tell me about fare from airport to home
+divergence	you have high taxi fare airport to home
+
+valid	how much will it cost to take a taxi from airport to home
+valid	get me the price of a taxi from airport to home
+valid	what will it cost me on the average to take a taxi from airport to home
+
+valid	which is the rate of taxi from the airport up to my home
+valid	I need to know the rate of taxi from the airport up to my home
+valid	calculate the rate of taxi from the airport up to my home
+
+valid	what is the price of the taxi from the airport to home?
+valid	ask how much the taxi is worth from the airport to home
+valid	how much do you think the airport taxi is worth home?

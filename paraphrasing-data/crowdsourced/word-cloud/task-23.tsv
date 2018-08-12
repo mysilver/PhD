@@ -1,0 +1,41 @@
+# expression: create a comment saying <b class='fixed'>"Best Voice Ever!!"</b>
+
+valid	comment with "Best Voice Ever"
+valid	add comment "Best Voice Ever"
+valid	comment "Best Voice Ever"
+
+valid	make a statement to say "Best Voice Ever"
+valid	produce a comment to tell her "Best Voice Ever"
+valid	make a remark saying "Best Voice Ever"
+
+cheating	Best Voice Ever
+cheating	commentry on Best Voice Ever
+valid	comment saying "Best Voice Ever"
+
+valid	build a comment saying Best Voice Ever
+cheating	Best Voice Ever description
+valid	comment on Best Voice Ever
+
+divergence	establish a remark stating "Best Voice Ever"
+divergence	develop an announcement about "Best Voice Ever"
+divergence	construct an announcement stating "Best Voice Ever"
+
+divergence	describe a comment as Best Voice Ever
+divergence	explain this comment as the Best Voice Ever
+divergence	use Best Voice Ever to describe this comment
+
+divergence	I met a guy who spoke with the Best Voice Ever heard in my lifetime
+divergence	the Best Voice Ever known to man is that of god
+divergence	I hope this is the Best Voice Ever recorded on tape
+
+valid	generate a comment saying Best Voice Ever
+valid	formulate a comment saying Best Voice Ever
+valid	create a comment defining Best Voice Ever
+
+valid	formulate a statement which includes Best Voice Ever
+valid	compose a sentence with Best Voice Ever as a comment
+valid	makeup a comment mentioning Best Voice Ever
+
+divergence	fabricate Best Voice Ever
+valid	write down Best Voice Ever
+valid	generate a comment saying "Best Voice Ever"

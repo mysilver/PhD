@@ -1,0 +1,81 @@
+# expression: how far is the closest cab
+
+cheating,	dadsddsdsdsdsaddsdsd
+cheating,	fddfdfdffggggg
+cheating,	aaaaasddddddsd
+
+divergence,	where can I find a cab
+divergence,	is there any cab available
+divergence,	I need a cab
+
+grammar,	what is distance of closest cab
+grammar,	can you tell me how far is closest cab
+grammar,	how much distance between here and closest cab
+
+valid,	tell me how far away the closest cab is.
+valid,	what is the distance of the closest cab?
+valid,	how far away is the nearest taxi?
+
+valid,	tell me how far it is to the nearest cab.
+valid,	let me know the distance to the closest cab.
+valid,	I want to know how far away the nearest cab is.
+
+cheating,divergence,	find the cabin near me
+cheating,divergence,answer,	a cabin ten meters from me
+cheating,divergence,	where a cabin is located
+
+valid,	how far is the closest cab from here
+grammar,	how long is the closest cab from here
+valid,	how much distance far is the closest cab
+
+valid,	how far away is the closest cab?
+valid,	what is the distance from the nearest taxi?
+valid,	how many miles away is the nearest cab?
+
+cheating,	how far is the closest cab how far is the closest cab
+cheating,	how far is the the closest cab
+cheating,	how far is the the closest cab is the the closest cab
+
+valid,	what is the distance of the closest cab
+divergence,valid,	what is location of the closest cab
+divergence,	where is the closest cab
+
+valid,	how close is the nearest taxi
+divergence,	I would like to catch the nearest cab
+valid,	how far in the nearest taxi
+
+divergence,	where is the nearest cab
+valid,	how close is the nearest cab
+divergence,valid,	location of the nearest cab
+
+cheating,	??????????????????
+cheating,	????????????????????
+cheating,	invalid no word underline please fix it
+
+divergence,	closest taxi
+grammar,	distance to nearest cab
+grammar,	how far is nearest cab
+
+cheating,	close_together
+cheating,	near
+cheating,	bus
+
+valid,divergence,	is there any cab close_by?
+divergence,	how_long does it take to reach the closest cab from here?
+divergence,	can you tell me of a cab that is nearby?
+
+valid,	how near is the closest cab
+valid,	how far off is the closest jitney
+spelling,	how near is the closet cabby
+
+divergence,	where is the nearest taxi
+valid,	how far is the cab
+valid,	how far is the closest taxi
+
+valid,	what is the distance of the closest taxi ?
+valid,	how far is the cab which is nearby ?
+valid,	how far away is the uber cab which is closer to me?
+
+divergence,	where is the closest cab
+valid,	how far is the closest taxi
+divergence,	is a cab nearby

@@ -1,0 +1,41 @@
+# expression: Any suggestion for an inexpensive hotel near <b class='fixed'>Seattle</b> for <b class='fixed'>tomorrow</b> for <b class='fixed'>2</b>
+
+grammar	are there any in inexpensive hotel near Seattle for 2 for tomorrow.
+valid	can I get a room for 2 in an inexpensive hotel near Seattle tomorrow.
+valid	is there any room available for 2 tomorrow in an inexpensive hotel near Seattle.
+
+cheating	Seattle for tomorrow for 2 is8783
+cheating	Seattle for tomorrow for 2 10632
+cheating	Seattle for tomorrow for 2 11962
+
+divergence	what will the weather report be in Seattle for tomorrow at 2 o clock
+divergence	I booked a ticket to fly Seattle for tomorrow for 2 of us
+divergence	can you find Seattle location in google maps to go there tomorrow at 2 pm
+
+valid	suggest me an inexpensive hotel near Seattle for tomorrow for 2
+valid	please give a suggestion about an inexpensive hotel near Seattle for tomorrow for 2
+answer	I suggest you for an inexpensive hotel near Seattle for tomorrow for 2
+
+valid	give me an inexpensive hotel in Seattle for 2 people tomorrow
+valid	get me a list of cheap hotels in Seattle for 2 tomorrow
+valid	any cheap hotels available tomorrow for 2 in Seattle
+
+valid	find me an inexpensive hotel near Seattle for tomorrow for 2
+valid	I need an inexpensive hotel near Seattle for tomorrow for 2
+valid	options for inexpensive hotel near Seattle for tomorrow for 2
+
+valid	do you know any cheap hotel near Seattle for tomorrow for 2
+grammar	get me list of cheap hotel in Seattle tomorrow for 2 people
+valid	do you know any inexpensive hotel near Seattle that will be available tomorrow for 2
+
+valid	suggest me a low cost hotel for 2 near Seattle for tomorrow.
+valid	what are some inexpensive hotels near Seattle for 2 for tomorrow?
+valid	show me the list of some inexpensive hotels near Seattle for 2 because I am planning to go there tomorrow.
+
+divergence	I am making a visit to Seattle is there any 2 famous night clubs for tomorrow
+divergence	I will reach in Seattle at 2 pm tomorrow
+divergence	I need 2 air tickets to travel to Seattle tomorrow
+
+valid	can you recommend a cheap hotel stay for 2 in Seattle tomorrow?
+valid	is there a reasonably priced hotel for 2 people near Seattle for tomorrow?
+valid	I'm looking for a fair priced hotel for 2 for tomorrow in Seattle?

@@ -1,0 +1,41 @@
+# expression: give me a handful of <b class='fixed'>5</b> conference articles about <b class='fixed'>text_mining</b>
+
+valid	show me results for 5 conference articles over text_mining
+valid	search for 5 conference articles on text_mining
+valid	5 conference articles on text_mining on net
+
+valid	top 5 conference articles about text_mining
+valid	most handful of 5 conference articles about text_mining
+valid	suggest me a handful of 5 conference articles about text_mining
+
+valid	search for 5 conference articles about text_mining.
+valid	show me at least 5 conference articles about text_mining.
+valid	pick some 5 conference articles about text_mining.
+
+valid	show me a handful of 5 conference articles about text_mining
+valid	search for 5 conference articles about text_mining
+valid	find 5 conference articles about text_mining
+
+valid	show 5 articles on text_mining
+valid	find me 5 text_mining articles
+valid	open 5 conference articles that are discussing text_mining
+
+valid	find me a handful of 5 conference articles about text_mining
+valid	highlight me a handful of 5 conference articles about text_mining
+valid	summarize me a handful of 5 conference articles about text_mining
+
+valid	bring me 5 text_mining articles
+valid	I need 5 conference articles of text_mining
+valid	find me 5 conference articles about text_mining
+
+cheating	5 text_mining is all about knowing
+cheating	5 text_mining is all about know
+cheating	5 text_mining is all about knowledge
+
+divergence	5 topics are discussed in text_mining
+divergence	5 text_mining has a conference topic today
+divergence	text_mining topics of 5 different articles are discussed
+
+divergence	find me around 5 stories on text_mining
+valid	I need 5 articles exploring text_mining
+valid	can you find 5 articles on text_mining

@@ -1,0 +1,85 @@
+# expression: where should I try coffee near Newtown
+
+valid	which coffee shop do you suggest in Newtown
+valid	is there any coffee shop around Newtown?
+valid	give me some coffee shops around Newtown
+
+valid	I'm searching for a place to drink coffee near Newtown
+valid	do you know a place to try a good coffee in Newtown?
+grammar	I'm getting to know Newtown and I want drink coffee
+
+grammar	which place is good near Newtown to try coffee?
+valid	near Newtown where should I try coffee?
+valid	what place near Newtown can I try coffee?
+
+answer	near Newtown there is where to drink coffee
+answer	near Newtown, you can quickly drink coffee
+answer	near Newtown, you can quickly get a coffee
+
+spelling	where can I find a coffe near Newtown
+valid	where can I find a coffee near Newtown
+valid	in what places near Newtown can I try a coffee
+
+valid	is there any coffee place near Newtown
+valid	good coffee around Newtown
+valid	what's the best Newtown area coffeehouse
+
+valid	good cafes in Newtown
+valid	is there any place to drink coffee near Newtown
+spelling	do you know a place for a caffee in Newtown
+
+grammar	do you know a place for a cafe in Newtown
+spelling	pls show me a good place for coffe near Newtown
+valid	pls show me a good place for a cup of coffee near Newtown
+
+valid	where you should try a good coffee near Newtown
+valid	where you should go near to try a good coffee near Newtown
+valid	where I could go nearby to try a good coffee near Newtown
+
+valid	what coffee near Newtown place is best?
+grammar	where I can find best coffee near Newtown.
+valid	what is the place for coffee near Newtown.
+
+valid	where can I find coffee near Newtown
+valid	where can I try coffee near Newtown
+valid	where can I buy coffee near Newtown
+
+valid	I would like to try some coffee shops near Newtown
+valid	what is the best place to get coffee in Newtown
+valid	which coffee house in Newtown uses the best coffee beans
+
+valid	places to try coffee near Newtown
+valid	coffee shops near Newtown
+valid	Newtown coffee shops
+
+valid	nearby coffee shops Newtown
+valid	best Newtown coffee
+valid	where to try coffee in the vicinity of Newtown
+
+valid	coffee near Newtown
+valid	best coffee in Newtown
+valid	nearby coffee shop in Newtown
+
+valid	coffeehouse near Newtown
+valid	tea shop near Newtown
+valid	try coffeehouse nearest to Newtown
+
+valid	where can I get a coffee near Newtown
+valid	which places in Newtown serve coffee
+valid	show me places in Newtown where I can get a coffee
+
+valid	where near Newtown should I have coffee
+valid	is there anywhere adjacent to Newtown to have coffee
+valid	I'm looking for coffeehouses near Newtown
+
+valid	find a couple of coffee shops near Newtown
+valid	coffee shops with good reviews in Newtown
+valid	coffee recommendations near Newtown
+
+valid	which coffee house in Newtown proximity do you suggest me to have a try?
+valid	what place is the best to have a cup of drip coffee around Newtown?
+valid	would you please find a better coffee shop or similar one close to Newtown ?
+
+cheating	I will look for a place nearby where I should try coffee near Newtown
+cheating	dare several options I will look for a place nearby where I should try the coffee near Newtown
+cheating	close to the eastern field is where you should try coffee near Newtown

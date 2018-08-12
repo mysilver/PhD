@@ -1,0 +1,41 @@
+# expression: how far is the closest cab
+
+cheating	dadsddsdsdsdsaddsdsd
+cheating	fddfdfdffggggg
+cheating	aaaaasddddddsd
+
+divergence	where can I find a cab
+divergence	is there any cab available
+divergence	I need a cab
+
+valid	what is distance of closest cab
+valid	can you tell me how far is closest cab
+valid	how much distance between here and closest cab
+
+valid	tell me how far away the closest cab is.
+valid	what is the distance of the closest cab?
+valid	how far away is the nearest taxi?
+
+valid	tell me how far it is to the nearest cab.
+valid	let me know the distance to the closest cab.
+valid	I want to know how far away the nearest cab is.
+
+divergence	find the cabin near me
+answer	a cabin ten meters from me
+divergence	where a cabin is located
+
+valid	how far is the closest cab from here
+grammar	how long is the closest cab from here
+valid	how much distance far is the closest cab
+
+valid	how far away is the closest cab?
+valid	what is the distance from the nearest taxi?
+valid	how many miles away is the nearest cab?
+
+cheating	how far is the closest cab how far is the closest cab
+cheating	how far is the the closest cab
+cheating	how far is the the closest cab is the the closest cab
+
+valid	what is the distance of the closest cab
+divergence	what is location of the closest cab
+divergence	where is the closest cab

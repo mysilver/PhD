@@ -1,0 +1,41 @@
+# expression: I want reviews for <b class='fixed'>McDonald</b> at <b class='fixed'>Kensington st.</b>
+
+valid	where can I find reviews for the McDonald on Kensington st.
+valid	are the reviews for McDonald on Kensington st. any good?
+valid	I want to get some reviews for the McDonald on Kensington st.
+
+valid	can you show me Kensington st. McDonald reviews
+valid	show me a reviewer comments for Kensington st. McDonald
+valid	I wish to see a review for the Kensington st. McDonald
+
+divergence	I have some experience reviews for McDonald at Kensington st.
+divergence	I want to tell you about McDonald at Kensington st.
+divergence	I have very good review for McDonald at Kensington st.
+
+valid	McDonald reviews at Kensington st.
+valid	opinions of McDonald Kensington st.
+valid	views of McDonald Kensington st.
+
+valid	demonstrate reviews for McDonald at Kensington st.
+divergence	release reviews for McDonald at Kensington st
+valid	go for reviews for McDonald at Kensington st
+
+valid	show me a review for McDonald on Kensington st.
+valid	reviews for the Kensington st. McDonald
+valid	what do the critics say about the McDonald on Kensington st.
+
+divergence	I would like updates for McDonald at Kensington st.
+valid	send me some assessments for McDonald at Kensington st.
+valid	when should I expect to receive the critique for McDonald at Kensington st.
+
+valid	need McDonald at Kensington st reviews
+valid	find reviews for McDonald on Kensington st
+divergence	locate mcdaonald on Kensington st reviews
+
+divergence	I want to make some good reviews for McDonald's in Kensington st.
+valid	I should have a lot of reviews for McDonald's in Kensington st.
+divergence	I hope to make excellent reviews for McDonald's in Kensington st.
+
+valid	I want feedbacks for McDonald at Kensington st.
+valid	I need reviews for McDonald at Kensington st.
+valid	I need feedback for McDonald at Kensington st.

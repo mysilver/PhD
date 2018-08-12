@@ -1,0 +1,33 @@
+# expression: estimate the taxi fare from the <b class='fixed'>airport</b> to <b class='fixed'>home</b>
+
+valid	calculate the cab fare from the airport to home
+valid	what would the taxi fare be from the airport to home
+valid	I need an estimate of the cab fare from the airport to my home
+
+valid	what is the estimated taxi fare from our airport to our home?
+valid	what is the taxi fare from the airport to our home
+valid	how much is the taxi fare from our airport to our home
+
+valid	tell me the taxi fare from the airport to home
+valid	what is the taxi fare from the airport to home
+cheating	I know the taxi fare from the airport to home
+
+valid	how much is taxi fare from home to the airport
+valid	estimate taxi fare from the airport to home
+valid	calculate taxi fare from the airport to home
+
+valid	how much for a taxi from the airport to home
+valid	what will be the cab cost from the airport to home
+valid	find out the charge of a taxi to home from the airport
+
+valid	what do you predict to be the taxi fare to my home from the airport ?
+valid	how much would a cab charge me if I wanted to go from the airport to my home?
+valid	what is the standard fare from the airport to home?
+
+valid	how much will it cost me to get a taxi from the airport to home
+valid	what is the standard fare between the airport and home
+spelling	predict the cost of a taxe from the airport to home
+
+valid	estimate the taxicab fare from airport to home
+valid	estimate price the taxi fare from airport to home
+valid	estimate the taxis fare from airport to home

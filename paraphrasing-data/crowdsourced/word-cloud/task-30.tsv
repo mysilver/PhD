@@ -1,0 +1,41 @@
+# expression: search the web for the <b class='fixed'>Amazon</b> web page
+
+valid	enter Amazon into the search engine
+valid	I am looking for the Amazon web page
+valid	conduct a search for Amazon
+
+valid	look on the internet for the Amazon web site
+valid	search online for the web page called Amazon
+valid	peruse the web to find the page Amazon
+
+divergence	seek for availability of a product in the Amazon web page
+divergence	does multiple Amazon web_pages exist for a single product
+divergence	is page retrieval fast for a product in search_engine of Amazon web page
+
+valid	search for the Amazon web page
+valid	look through the search engine for Amazon web pages
+valid	search web page for Amazon using the search engine
+
+valid	seek the Amazon web page
+valid	search for the Amazon web page
+valid	find the Amazon web page
+
+valid	find the Amazon page on the internet
+valid	go to the web and find the Amazon page
+valid	use a search engine to find the Amazon page
+
+valid	lookup the search engine for Amazon website
+valid	search the internet for Amazon web page
+valid	google Amazon web page
+
+valid	find Amazon web site
+valid	locate Amazon online
+valid	search for Amazon
+
+valid	I need to find the Amazon web page
+valid	I am trying to find the Amazon website
+valid	I need to conduct a search for the Amazon web page
+
+valid	google Amazon
+valid	take me to Amazon's home page
+valid	go to the home page of Amazon

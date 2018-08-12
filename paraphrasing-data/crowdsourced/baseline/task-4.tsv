@@ -1,0 +1,41 @@
+# expression: search for <b class='fixed'>cooking</b> videos
+
+valid	cooking videos youtube
+valid	find cooking videos
+valid	cooking videos on web
+
+valid	top cooking videos
+grammar	top most watch cooking videos
+valid	most top cooking videos
+
+valid	look for cooking videos
+valid	locate cooking videos
+valid	find cooking videos
+
+valid	search the internet for some good cooking videos.
+valid	search for some nice cooking video channels.
+valid	show me cooking videos.
+
+valid	find me cooking videos
+divergence	where can I find cooking videos
+divergence	look at me cooking videos
+
+valid	show me cooking videos
+valid	google cooking videos
+valid	find me some cooking videos
+
+valid	show me cooking videos
+valid	I want to see cooking videos
+valid	I want cooking videos
+
+divergence	search for cooking ideas
+divergence	show me cooking content
+divergence	videos on how to learn cooking
+
+divergence	cooking foods for long serves best
+divergence	I was looking for the cooking menu book in the library
+divergence	I just started cooking from today
+
+valid	find videos of cooking
+valid	show me video clips of cooking
+valid	looking for cooking vlogs

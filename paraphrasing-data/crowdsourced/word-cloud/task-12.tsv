@@ -1,0 +1,37 @@
+# expression: give me a handful of <b class='fixed'>5</b> conference articles about <b class='fixed'>text_mining</b>
+
+valid	I am looking for 5 magazine articles on text_mining
+valid	give 5 examples of articles on text_mining
+valid	I need to find 5 articles on text_mining
+
+valid	show me 5 conference articles on text_mining
+valid	provide me with five articles on text_mining
+valid	find me 5 different articles about text_mining
+
+valid	5 conference articles about text_mining
+valid	5 editorial articles about text_mining
+valid	5 online articles on text_mining
+
+valid	give me 5 articles on text_mining
+valid	5 text_mining articles
+valid	5 conference articles on text_mining
+
+cheating	take 5 column text_mining
+cheating	column
+cheating	round_table
+
+cheating	5 some text_mining
+cheating	some
+cheating	throw
+
+cheating	give5text_mining
+cheating	sjoaiudoiuo5text_minig
+cheating	jkaskjhsaj
+
+divergence	symposium about 5 text_mining
+valid	discover 5 conference articles about text_mining
+valid	get 5 conference articles about text_mining
+
+cheating	give me a handful of 5 dozen for conference articles on text_mining
+cheating	give me a handful of 5 for text_mining conference articles to discover
+cheating	give me a handful of 5 for text_mining conference articles to tell

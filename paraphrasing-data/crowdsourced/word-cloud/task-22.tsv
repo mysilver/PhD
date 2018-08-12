@@ -1,0 +1,41 @@
+# expression:  terminate <b class='fixed'>i-a541</b> now
+
+valid	cancel i-a541 now
+valid	discontinue the operation of i-a541
+valid	cancel i-a541 immediately
+
+valid	discontinue i-a541 right now
+valid	cease i-a541 immediately
+valid	cancel i-a541 now
+
+valid	shut down i-a541 now
+valid	cancel i-a541 now
+valid	close i-a541 now
+
+valid	just cancel the i-a541 immediately
+valid	I wish to discontinue the i-a541 now
+valid	please cease the 1-a541 asap
+
+valid	suspend i-a541 now
+valid	revoke i-a541 now
+valid	end i-a541 now
+
+valid	turn off i-a541
+valid	please stop i-a541
+valid	switch i-a541 off
+
+valid	suspend i-a541 immediately
+divergence	revokes i-a541 at once
+divergence	that does not re-enter i-a541 now
+
+valid	abolish i-a541 now
+valid	discontinue i-a541 now
+valid	end i-a541 now
+
+valid	stop i-a541
+valid	quit i-a541 now
+valid	end i-a541
+
+valid	withdraw i-a541 now
+divergence	postpone i-a541 now
+valid	quit i-a541 now

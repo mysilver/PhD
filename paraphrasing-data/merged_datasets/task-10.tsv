@@ -1,0 +1,81 @@
+# expression: Search for the topmost ranked 10 tweets containing "middle east
+
+valid,	top 10 tweets contain middle east
+valid,	middle east top 10 tweets
+spelling,	10 tweets releated to middle east
+
+valid,	can you find the top rated 10 tweets that have "middle east" in them?
+valid,	I would like to find the 10 top tweets referring to the "middle east".
+valid,	I am looking for 10 tweets that have the words "middle east" and are ranked in the top.
+
+divergence,	top 10 middle east countries.
+divergence,	middle east is on top 10 list.
+divergence,	10 things to see in middle east.
+
+grammar,	remarkable 10 tweets witch cointain middle east
+valid,	10 tweets with the word middle east
+valid,	the 10 most important tweets about middle east
+
+valid,	search for 10 tweets containing the words "middle east" that are ranked topmost.
+valid,	provide me the list of 10 topmost ranked tweets containing "middle east".
+valid,	perform a search of 10 tweets containing "middle east" that are ranked topmost
+
+valid,	search top 10 middle east tweets
+valid,	search twitter for top 10 middle east tweets
+valid,	search twitter for 10 top ranked middle east tweets
+
+valid,	what are top 10 tweets about middle east.
+valid,	search top 10 tweets containing middle east.
+valid,	show me top 10 tweets about middle east.
+
+valid,	search for the 10 topmost ranked tweets containing "middle east"
+valid,	search the 10 topmost ranked tweets containing "middle east"
+valid,	search for the 10 topmost ranked tweets that containing "middle east"
+
+answer,divergence,	the many strands of middle east diplomacy crossed paths last 10 days.
+divergence,answer,	disturbances in the middle east often boost the price of oil past 10 years.
+answer,divergence,	about 10 million filipinos work in the middle east.
+
+valid,	find the top 10 tweets about the middle east.
+valid,	locate the 10 top tweets that are in regards to the middle east.
+valid,	search for the top 10 comm tweets that contain the reference middle east.
+
+valid,	show highest 10 rated twitter comments about middle east
+valid,	what are the 10 uppermost ranked middle east tweets
+valid,	on twitter what are the 10 highest middle east tweets
+
+valid,	searching for 10 top tweets having "middle east" in the title
+valid,	looking for the 10 top tweets that have "middle east" info.
+valid,	I'm seeking info on "middle east" from the 10 top tweets.
+
+valid,	topmost ranked 10 tweets containing "middle east"
+divergence,	100 topmost ranked 10 tweets containing "middle east"
+valid,	most popular topmost ranked 10 tweets containing "middle east"
+
+valid,	look for the highest ranked 10 tweets with the middle east
+valid,	seek the uppermost ranked 10 tweets containing middle east
+spelling,	search fr the top ranked 10 tweets with middle east in name
+
+valid,	topmost ranked 10 tweets containing "middle east"
+valid,	find topmost ranked 10 tweets containing "middle east"
+valid,	show topmost ranked 10 tweets containing "middle east"
+
+valid,	top 10 tweets about the middle east
+valid,	most popular 10 tweets which refer to the middle east
+valid,	search for the top 10 tweets on the topic of the middle east
+
+valid,	look for the best 10 tweets containing middle east
+valid,	search for the best 10 relevant tweets on middle east
+valid,	find the ten most prominent tweets on middle east
+
+valid,	find top ranked 10 tweets about the "middle east"
+valid,	what are the top 10 ranked tweets containing "middle east"
+valid,	read 10 topmost ranked tweets about "middle east"
+
+divergence,cheating,	in the big social station look for the top 10 tweets that contain "middle east"
+divergence,cheating,	we must have a higher content looking for the 10 best classified tweets that contain "middle east"
+cheating,divergence,	let's overcome the 10 top-ranked tweets that contain "middle east"
+
+valid,	what are the top 10 middle east tweets?
+valid,	what tweets about the middle east are in the top 10?
+valid,	name the top 10 middle east tweets.

@@ -1,0 +1,41 @@
+# expression: Is there any flight to <b class='fixed'>Tehran</b> from <b class='fixed'>Sydney</b> departing on this <b class='fixed'>Friday</b>
+
+spelling	flight form Tehran to Sydney on Friday
+valid	any flight on Friday from Tehran to Sydney
+valid	Tehran to Sydney flights on Friday
+
+valid	on Friday, is there a flight leaving from Sydney to Tehran?
+valid	I am searching for a possible flight leaving Sydney to Tehran on Friday?
+valid	would there be an available flight that leaves Sydney to Tehran on Friday?
+
+valid	going from Tehran to Sydney on Friday.
+answer	he will come from Tehran by Sydney on Friday.
+answer	on Friday, flight will come from Sydney to Tehran.
+
+valid	is there any flight to Tehran from Sydney on this Friday
+valid	on this Friday , is any flight available departing from Sydney to Tehran
+valid	is there flight to Tehran from Sydney on this Friday
+
+valid	a flight to Tehran from Sydney on Friday.
+valid	I am looking for a flight from Sydney to Tehran this Friday
+valid	any flight to Tehran from Sydney on Friday
+
+valid	on what time will I get a flight to Tehran from Sydney departing on Friday
+valid	will I get any flight to Tehran from Sydney on Friday
+valid	need to go to Tehran is there any flight on Friday from Sydney
+
+valid	do you know of any flight from Sydney to Tehran departing on this Friday?
+valid	please check if there is any flight from Sydney to Tehran departing on this Friday?
+valid	tell me if there is any flight departing on this Friday to Tehran from Sydney.
+
+valid	call in airport and taking information about any flight to Tehran from Sydney on Friday
+valid	I have to go this Friday, please get information any flight to Tehran from Sydney
+divergence	we have to leave this Friday to Tehran from Sydney
+
+valid	flights to Tehran from Sydney Friday?
+valid	on Friday are there any flights from Sydney to Tehran?
+valid	Friday, flight from Tehran from Sydney?
+
+valid	what flights are available from Tehran to Sydney at Friday.
+valid	show me Sydney to Tehran on Friday flights.
+spelling	inform me if there are any flights availble on Friday from Sydney to Tehran

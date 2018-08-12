@@ -1,0 +1,41 @@
+# expression: send an email to <b class='fixed'>Phil</b> telling her that <b class='fixed'>"I got you!"</b>
+
+valid	please send the e-mail to Phil saying "I got you"
+valid	compose an email to Phil with the phrase "I got you"
+valid	explain to Phil in the email that "I got you"
+
+valid	message Phil, tell her I got you
+valid	explain to Phil that I got you
+valid	email Phil and tell her I got you
+
+valid	send a email to Phil telling her that "I got you"
+valid	tell to Phil via email about her that "I got you"
+valid	you send an email to Phil telling her that "I got you"
+
+cheating	send a mail_out to Phil telling her that "I got you"
+valid	send a message to Phil for informing her that "I got you"
+valid	call Phil and explain her that "I got you"
+
+grammar	transmit an email to Phil telling her that "I got you"
+valid	email Phil telling her that "I got you"
+grammar	dispatch an email to Phil telling her that "I got you"
+
+valid	email Phil telling her I got you
+valid	send Phil an email saying I got you
+valid	write an email to Phil and say I got you
+
+valid	email Phil to notify her that I got you
+valid	send message to Phil to inform her I got you
+valid	tell Phil by email that I got you
+
+valid	email Phil saying I got you
+valid	email Phil telling her I got you
+valid	send an email to Phil to say I got you
+
+valid	forward an email to Phil to inform her that I got you
+valid	tell Phil by email that I got you
+valid	draft an email to Phil stating that I got you
+
+grammar	Phil send telling her that "I got you"
+grammar	Phil tell I got you
+valid	send an electronic mail telling I got you Phil

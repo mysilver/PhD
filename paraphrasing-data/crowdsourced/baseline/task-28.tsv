@@ -1,0 +1,41 @@
+# expression: Could you offer <b class='fixed'>three</b> barbershops in <b class='fixed'>Newtown</b>
+
+valid	give me three barbershops in Newtown
+valid	should I have three barbershops in Newtown
+valid	get a list of three barbershops in Newtown
+
+valid	could you offer three barbershops in Newtown?
+spelling	where are the location of three barbersops in Newtown?
+valid	can you show me three barbershops in Newtown
+
+divergence	we could offer three barbershop in Newtown
+grammar	could offer us three barbershop in Newtown ?
+divergence	we could be offered three barbershop in Newtown
+
+cheating	could we offer three hairdressers in Newtown
+cheating	are we going to offer three hairdressers in Newtown
+cheating	do we want to offer three hairdressers in Newtown
+
+valid	do you know three barbershops in Newtown
+valid	could you tell me three barbershops in Newtown
+valid	could you send me a list of three barbershops in Newtown
+
+valid	please provide me the list of three nearest barbershops in Newtown
+valid	would you know at least three barbershops here in Newtown?
+valid	I need the names of the top three barbershops in Newtown.
+
+valid	name three barbershops in Newtown
+valid	show me three different barbershops in Newtown
+valid	I need three barbershops in Newtown
+
+spelling	could you find me three babershops in Newtown
+valid	can you show me three barbershops in Newtown
+valid	can you locate me three barbershops in Newtown
+
+grammar	I am looking for three barbershop in Newtown
+grammar	finding three good barbershop in Newtown is not easy
+valid	please tell me the best three barbershops in Newtown
+
+divergence	what are the top three food items in Newtown
+divergence	name the top three musicians in Newtown
+divergence	which three places are famous in Newtown

@@ -1,0 +1,73 @@
+# expression: turn off i-a541 now
+
+valid,	shut down i-a541
+valid,	switch off i-a541
+valid,	close i-a541
+
+cheating,	turn off i-a541 later
+cheating,	turn off i-a541 after weeks
+cheating,	turn off i-a541 never
+
+valid,	shut down i-a541 now
+grammar,	please off i-a541 now
+valid,	close i-a541 now
+
+valid,	power down i-a541
+valid,	disconnect i-a541
+valid,	unplug i-a541 now
+
+valid,	please turn off i-a541
+valid,	I'd like to turn off i-a541 now
+valid,	can we turn off i-a541 now
+
+valid,	turn off the i-a541.
+valid,	let i-a541 turn off.
+valid,	call someone to turn i-a541 off.
+
+valid,	switch off i-a541 now
+valid,	turn off i-a541 presently
+valid,	switch off i-a541 presently
+
+valid,	switch off i-a541 right now
+valid,	kindly turn off the i-a541 now
+valid,	switch the i-a541 off now
+
+valid,	i-a541 turnoff now
+valid,	i-a541 turn off now
+valid,	i-a541 turnoff right now
+
+cheating,divergence,	i-a541 is in different sector now
+divergence,cheating,	we need to re enable i-a541
+divergence,cheating,	maintenance is required to run i-a541
+
+valid,	cancel i-a541
+valid,	turn off i-a541 immediately
+valid,	discontinue i-a541
+
+valid,	switch off i-a541
+valid,	shut down i-a541
+valid,	now turn off i-a541
+
+valid,	terminate i-a541 now
+valid,	shut down i-a541 now
+valid,	close i-a541 now
+
+valid,	change i-a541 to off
+valid,	i-a541 should be off now
+valid,	switch off i-a541 right now
+
+valid,	stop i-a541 now
+valid,	cease i-a541 now
+valid,	switch i-a541 now
+
+valid,	switch off i-a541
+valid,	stop i-a541 please
+valid,	please turn off i-a541
+
+valid,	suspend i-a541 now
+valid,	stop i-a541 now
+valid,	switch off a-541 immediately
+
+divergence,misuse,cheating,	turn to i-a541 now
+cheating,valid,	leave_off i-a541 now
+divergence,misuse,cheating,	swing_around i-a541 now

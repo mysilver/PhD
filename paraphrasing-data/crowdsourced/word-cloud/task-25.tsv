@@ -1,0 +1,41 @@
+# expression: let me have top <b class='fixed'>three</b> convenience stores near <b class='fixed'>Newtown</b>
+
+valid	what are the top three convenience stores in Newtown
+valid	are any of the top three convenience stores in Newton nearby
+divergence	do any of the top three convenience stores in Newton sell gasoline?
+
+valid	searching in Newtown for top three convenience retailers
+valid	I want to find top three convenience stores close to Newtown
+valid	looking for the top three convenience stores right close to Newtown
+
+cheating	top three convenience stories near Newtown
+cheating	tell me top three convenience stories near Newtown
+cheating	there is top three convince stories near Newtown
+
+valid	I need to know which is the top three convenience store near to Newtown
+valid	I found plenty of grocery stores but I need to know which is top 3 among the whole near Newtown
+valid	there are any good stores available near to Newtown? if yes then which is top three?
+
+valid	top three convenience stores near Newtown
+valid	top three supermarkets near Newtown
+valid	top three warehouses near Newtown
+
+valid	show me the top three convenience stores near Newtown
+valid	top three supermarkets near Newtown
+valid	which are the best three convenience stores in Newtown
+
+valid	I need the best three supermarkets around Newtown
+valid	can I get the top three grocery stores near Newtown
+valid	may I have top three convenience stores close to Newtown
+
+valid	let me have top three convenience stores in Newtown
+valid	let me have top three convenience stores near Newtown
+valid	let me have top three grocery in Newtown
+
+cheating	let me have three best stores near Newtown highest
+cheating	let me have three best stores near Newtown for four
+cheating	let me have three best stores near Newtown to have nearby grocery stores
+
+valid	give me top three grocery stores near Newtown
+valid	find me top three convenience stores I the vicinity of Newtown
+valid	search top three grocery stores close to Newtown for me

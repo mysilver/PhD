@@ -1,0 +1,41 @@
+# expression:  Which luxurious restaurant should I try in <b class='fixed'>High Street</b>
+
+valid	recommend me some luxurious restaurants in High Street
+valid	do you suggest any restaurant at High Street?
+valid	which luxurious restaurant do you suggest in High Street?
+
+valid	luxurious restaurants in High Street
+divergence	how many luxurious restaurants are there in High Street?
+valid	which is the best luxury restaurant in High Street?
+
+spelling	any luxurious restaurant ishould try in High Street
+grammar	what luxurious restaurant are in High Street
+valid	can you recommend some luxurious restaurants in High Street
+
+valid	where do I find a luxury restaurant should I try it on High Street?
+valid	what is a luxury restaurant should you try on High Street?
+valid	where there is a luxury restaurant should you try High Street?
+
+valid	on High Street to which restaurant should I go?
+valid	what luxury restaurant do you recommend in High Street?
+valid	which is the best restaurant in High Street?
+
+answer	High Street have three luxurious restaurant, you can try any one.
+answer	you can try marle inn luxurious restaurant in High Street
+answer	my suggestion is to you try tr inn luxurious restaurant in High Street
+
+valid	do you know any luxurious restaurant in High Street
+spelling	coud you suggest a luxurious restaurant in High Street
+spelling	do you have any recommodation for luxurious resaurant in High Street
+
+valid	any suggestion on must-try luxurious restaurants in High Street?
+valid	what luxurious restaurants do you know in High Street?
+valid	do you have any recommendation on what luxurious restaurant we must try in High Street?
+
+valid	which quality restaurant should I use in High Street
+valid	what fast food chain should I use in High Street
+spelling	what top nortch restaurant should I use in High Street
+
+spelling	recomend me all luxurius rstaurants in High Street
+spelling	tell me any luxurius place to eat in High Street
+valid	name all luxurious places to eat in High Street

@@ -1,0 +1,41 @@
+# expression: send an email to <b class='fixed'>Phil</b> telling her that <b class='fixed'>"I got you!"</b>
+
+valid	"I got you!" phil.
+valid	Tell phil that "I got you!"
+divergence	Phil tell her that "I got you!"
+
+valid	tell phil that I got you! by email
+valid	Send email to phil to let her know that I got you!
+valid	Send an email to phil by writing that I have got you!
+
+valid	email to phil and tell her "I got you!"
+valid	email phil telling her that "I got you!"
+valid	send phil and tell "I got you!"
+
+valid	send an email to phil that "I got you!"
+valid	send an email to phil saying her that "I got you!"
+valid	send an important email to phil that "I got you!"
+
+cheating	hhhhhhhhhhh
+cheating	jjjjjjjjjjjjjjj
+cheating	yyyyyyyyyyyyy
+
+cheating	an email to phil telling her that "I got you!"
+cheating	a email to phil telling her that "I got you!"
+cheating	send a email to phil telling her that "I got you!"
+
+valid	message him and convey to phil that "I got you!"
+valid	convey the message to phil that "I got you!"
+valid	let phil know "I got you!"
+
+valid	email phil "I got you!"
+valid	create an email to phil and write "I got you!"
+valid	please email phil and tell her "I got you!"
+
+cheating	send an eamil to phil disclosing to her that " I got you!"
+cheating	make fun of an email so as to phil damning alert that " I got you!"
+cheating	summon an email over against phil energetic my self that " I got you!"
+
+valid	tell phil "I got you!"
+valid	email phil "I got you!"
+valid	message phil "I got you!"

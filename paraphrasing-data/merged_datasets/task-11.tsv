@@ -1,0 +1,73 @@
+# expression: Which luxurious restaurant should I try in High Street
+
+valid,	recommend me some luxurious restaurants in High Street
+valid,	do you suggest any restaurant at High Street?
+valid,	which luxurious restaurant do you suggest in High Street?
+
+valid,	luxurious restaurants in High Street
+divergence,	how many luxurious restaurants are there in High Street?
+valid,	which is the best luxury restaurant in High Street?
+
+spelling,	any luxurious restaurant ishould try in High Street
+grammar,	what luxurious restaurant are in High Street
+valid,	can you recommend some luxurious restaurants in High Street
+
+grammar,cheating,	where do I find a luxury restaurant should I try it on High Street?
+cheating,grammar,	what is a luxury restaurant should you try on High Street?
+grammar,cheating,	where there is a luxury restaurant should you try High Street?
+
+valid,	on High Street to which restaurant should I go?
+valid,	what luxury restaurant do you recommend in High Street?
+valid,	which is the best restaurant in High Street?
+
+answer,	High Street have three luxurious restaurant, you can try any one.
+answer,	you can try marle inn luxurious restaurant in High Street
+answer,	my suggestion is to you try tr inn luxurious restaurant in High Street
+
+valid,	do you know any luxurious restaurant in High Street
+spelling,	coud you suggest a luxurious restaurant in High Street
+spelling,	do you have any recommodation for luxurious resaurant in High Street
+
+valid,	any suggestion on must-try luxurious restaurants in High Street?
+valid,	what luxurious restaurants do you know in High Street?
+valid,	do you have any recommendation on what luxurious restaurant we must try in High Street?
+
+valid,	which quality restaurant should I use in High Street
+divergence,	what fast food chain should I use in High Street
+spelling,	what top nortch restaurant should I use in High Street
+
+spelling,	recomend me all luxurius rstaurants in High Street
+spelling,	tell me any luxurius place to eat in High Street
+valid,	name all luxurious places to eat in High Street
+
+valid,	I would like to try an upscale eatery on High Street
+valid,	do you have a suggestion for an opulent bistro on High Street?
+divergence,	I would like to try the new sushi bar on High Street
+
+valid,	what sumptuous eatery could I try on High Street
+valid,	which lux dining place should I eat at on High Street?
+valid,	I'm looking to try a luxurious diner on High Street
+
+valid,	High Street restaurant suggestions
+valid,	best High Street restaurants
+valid,	which High Street restaurants are the best
+
+valid,	do not suggest to me some bistro but a luxurious restaurant in High Street that I can attempt?
+valid,	tell me a luxurious eatery in High Street and if I can give it whirl?
+valid,	I want you to mention some luxuriously opulent eatery in High Street for me to try?
+
+valid,	which chophouse restaurant should I try in High Street
+divergence,	which pizzeria should I try in High Street
+valid,	which restaurant should I try in High Street
+
+valid,	show me the luxury restaurants on the High Street
+valid,	which are the expensive restaurants on the High Street
+valid,	on the High Street which restaurants are luxurious
+
+valid,	which restaurant serving palatable menus should I go in High Street
+valid,	I need a restaurant in High Street serving sumptuous menus
+valid,	find me a five star restaurant in High Street
+
+valid,	any eating establishment in High Street ?
+valid,	which deluxe restaurants should I try in High Street
+valid,	any opulence restaurants should I try in High Street

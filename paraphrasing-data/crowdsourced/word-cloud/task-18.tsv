@@ -1,0 +1,41 @@
+# expression: I need a flight from <b class='fixed'>Tehran</b> to <b class='fixed'>Sydney</b>
+
+valid	I want to book a flight from Tehran to Sydney
+valid	can I reserve a flight from Tehran to Sydney
+valid	I will be taking a flight from Tehran to Sydney
+
+grammar	I'm looking for plane flight for Tehran to Sydney.
+valid	I want to find a flight from Tehran to Sydney.
+valid	I must have a flight to Sydney from Tehran.
+
+valid	I require a flight from Tehran to Sydney
+valid	Tehran to Sydney flights
+valid	flights from Tehran to Sydney
+
+valid	flight from Tehran to Sydney
+valid	cheap flight from Tehran to Sydney
+valid	Tehran to Sydney flights
+
+valid	I am in need of a flight from Tehran to Sydney
+valid	may I get a flight from Tehran to Sydney
+valid	I need an airliner from Tehran to Sydney
+
+valid	which flights go from Tehran to Sydney
+valid	show a list of flights from Tehran to Sydney
+valid	which flights are available from Tehran to Sydney
+
+valid	I would like to know which airlines fly from Tehran to Sydney?
+valid	can I book a direct flight from Tehran to Sydney?
+valid	I am in search of a flight from Tehran to Sydney
+
+valid	I must get a flight from Tehran to Sydney
+valid	I want a flight from Tehran to Sydney
+valid	I need to get a flight from Tehran to Sydney
+
+valid	I should get a flight to Sydney from Tehran
+valid	I would like to get an airplane going to Sydney from Tehran
+valid	I need to connect a flight from Tehran to Sydney
+
+valid	should_have a flight from Tehran to Sydney
+grammar	I need a airplane from Tehran to Sydney
+valid	I want a flight from Tehran to Sydney

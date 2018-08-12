@@ -1,0 +1,41 @@
+# expression: search for some restos near <b class='fixed'>Sydney</b>
+
+valid	get a list of some restaurants near Sydney
+valid	give me a list of restaurants near Sydney
+spelling	which restaurants do you suggest new Sydney
+
+valid	find a resto near Sydney
+divergence	locate a rest near Sydney
+divergence	get a rest near Sydney
+
+valid	restos near Sydney
+valid	give me some restos near Sydney
+valid	list some restos near Sydney
+
+valid	is there any good restaurants available near Sydney?
+spelling	Sydney is very good place for restaurent
+grammar	give me best restaurant list near to Sydney
+
+divergence	I'm searching for a hotel near Sydney
+divergence	I want to rest near Sydney
+divergence	I'm booking near Sydney
+
+divergence	where can I look for a rest in Sydney?
+divergence	which is the rest closer to Sydney?
+divergence	what are the remains near Sydney?
+
+divergence	we could look for a rest near Sydney
+divergence	where could I look for a rest near Sydney
+divergence	recommends me where I could look for a rest near Sydney
+
+spelling	find me a couple os restos around Sydney area
+valid	look for restaurants near Sydney
+valid	give me a list of restaurants in the area of Sydney
+
+cheating	I need for some restos near Sydney
+cheating	I find for some restos near Sydney
+cheating	I finding for some restos near Sydney
+
+valid	look for some restos close to Sydney
+valid	seek fine restos to eat close to Sydney
+valid	find good restos near Sydney

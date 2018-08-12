@@ -1,0 +1,41 @@
+# expression:  terminate <b class='fixed'>i-a541</b> now
+
+cheating	hello i-a541
+cheating	start i-a541
+cheating	new the i-a541
+
+valid	cancel i-a541
+valid	kill i-a541
+valid	shut down i-a541
+
+valid	is it terminated in i-a541
+divergence	what does i-a541 mean
+divergence	I do not know what i-a541 is
+
+valid	please terminate i-a541 right now.
+valid	terminate i-a541 immediately.
+valid	get rid of i-a541 now.
+
+valid	exit i-a541 immediately
+valid	close down i-a541 now
+valid	shut down i-a541 right away
+
+valid	terminate i-a541
+valid	just terminate i-a541
+valid	terminate i-a541 immediately
+
+cheating	terminate i-a541 now terminate i-a541 now
+cheating	i-a541 now terminate i-a541 now
+cheating	now terminate i-a541 now
+
+divergence	i-a541 is new mobile modal
+divergence	more features available on i-a541 mobile modal
+divergence	i-a541 is a mobile that weight is 1 gm
+
+cheating	erminate i-a541 now
+cheating	rminate i-a541 now
+cheating	minate i-a541 now
+
+grammar	finalize i-a541 right now
+valid	remove i-a541 right now
+grammar	please finalize me remove i-a541 right now

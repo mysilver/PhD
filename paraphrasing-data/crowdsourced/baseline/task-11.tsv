@@ -1,0 +1,41 @@
+# expression: create a <b class='fixed'>public</b> playlist named <b class='fixed'>NewPlaylist</b>
+
+valid	new public NewPlaylist
+valid	create new public NewPlaylist
+divergence	NewPlaylist is released for public.
+
+valid	make a public playlist named NewPlaylist
+valid	create a public playlist which named NewPlaylist
+valid	create a public playlist that is NewPlaylist
+
+grammar	made a new public playlist with name NewPlaylist
+grammar	built a public list which name should be NewPlaylist
+grammar	develop new public playlist named as NewPlaylist
+
+divergence	that song hits the public NewPlaylist this year
+divergence	public really loved that NewPlaylist played on the event
+divergence	public saw many NewPlaylist this year
+
+valid	can you create a public playlist named NewPlaylist
+divergence	NewPlaylist its de name you can create a public playlist
+divergence	maybe you can create a NewPlaylist, that he are public
+
+valid	make a new public playlist called NewPlaylist
+valid	create a public playlist called NewPlaylist
+valid	with the name NewPlaylist, create a public playlist
+
+valid	can you create a public playlist named NewPlaylist ?
+valid	will you create a public playlist named NewPlaylist?
+valid	make a public playlist named NewPlaylist
+
+valid	can you make a public playlist and it should be named NewPlaylist?
+divergence	is NewPlaylist a public playlist?
+divergence	can you find out a public playlist namely NewPlaylist?
+
+divergence	the public performance presented by NewPlaylist is better than the referents of the company
+divergence	NewPlaylist is a good public platform
+divergence	the publicity must be public and have something of interest in the viewer so both NewPlaylist #must be presentable
+
+valid	create a public playlist which has a name NewPlaylist
+valid	create a public playlist and give it a name as NewPlaylist
+valid	NewPlaylist name must be given to newly created public playlist

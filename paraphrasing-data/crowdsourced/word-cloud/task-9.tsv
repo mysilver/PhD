@@ -1,0 +1,41 @@
+# expression: seek for flights from <b class='fixed'>Tehran</b> to <b class='fixed'>Sydney</b>
+
+valid	search for flights from Tehran to Sydney
+valid	I need to book a flight from Tehran to Sydney
+valid	I would like to find a flight to Sydney departing from Tehran
+
+valid	search for flights to go from Tehran to Sydney
+valid	look for flights available from Tehran to Sydney
+valid	I would like flights available from Tehran to Sydney
+
+valid	search for flights from Tehran to Sydney
+divergence	help_seeker for flights from Tehran to Sydney
+valid	tell me about for flights from Tehran to Sydney
+
+valid	I am searching for flight schedule from Tehran to Sydney
+valid	I would like to get flight details to Sydney from Tehran
+valid	could you find flight details between Tehran and Sydney
+
+valid	what flights from Tehran to Sydney
+valid	find flights from Tehran to Sydney
+valid	seek flights from Tehran to Sydney
+
+spelling	find flights for Tehran to Sydney
+valid	what flights are available from Tehran to Sydney
+spelling	I would like to fly for Tehran to Sydney, which flights are available
+
+valid	I need to book a flight from Tehran to Sydney
+valid	I need a direct flight from Tehran to Sydney
+valid	I am looking for flights from Tehran to Sydney
+
+valid	search for flights from Tehran to Sydney
+valid	hunt for flights from Tehran to Sydney
+valid	look for flights from Tehran to Sydney
+
+valid	look for flights to Sydney from Tehran
+valid	search for flights going from Tehran to Sydney
+valid	check for flights traveling to Sydney from Tehran
+
+divergence	domestic_flight Tehran to Sydney
+valid	international flight from Tehran to Sydney
+divergence	blind_flying from Tehran to Sydney

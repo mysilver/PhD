@@ -1,0 +1,41 @@
+# expression:  Search for the topmost ranked <b class='fixed'>10</b> tweets containing "<b class='fixed'>middle east</b>
+
+valid	show highest 10 rated twitter comments about middle east
+valid	what are the 10 uppermost ranked middle east tweets
+valid	on twitter what are the 10 highest middle east tweets
+
+valid	searching for 10 top tweets having "middle east" in the title
+valid	looking for the 10 top tweets that have "middle east" info.
+valid	I'm seeking info on "middle east" from the 10 top tweets.
+
+valid	topmost ranked 10 tweets containing "middle east"
+divergence	100 topmost ranked 10 tweets containing "middle east"
+valid	most popular topmost ranked 10 tweets containing "middle east"
+
+valid	look for the highest ranked 10 tweets with the middle east
+valid	seek the uppermost ranked 10 tweets containing middle east
+spelling	search fr the top ranked 10 tweets with middle east in name
+
+valid	topmost ranked 10 tweets containing "middle east"
+valid	find topmost ranked 10 tweets containing "middle east"
+valid	show topmost ranked 10 tweets containing "middle east"
+
+valid	top 10 tweets about the middle east
+valid	most popular 10 tweets which refer to the middle east
+valid	search for the top 10 tweets on the topic of the middle east
+
+valid	look for the best 10 tweets containing middle east
+valid	search for the best 10 relevant tweets on middle east
+valid	find the ten most prominent tweets on middle east
+
+valid	find top ranked 10 tweets about the "middle east"
+valid	what are the top 10 ranked tweets containing "middle east"
+valid	read 10 topmost ranked tweets about "middle east"
+
+divergence	in the big social station look for the top 10 tweets that contain "middle east"
+divergence	we must have a higher content looking for the 10 best classified tweets that contain "middle east"
+divergence	let's overcome the 10 top-ranked tweets that contain "middle east"
+
+valid	what are the top 10 middle east tweets?
+valid	what tweets about the middle east are in the top 10?
+valid	name the top 10 middle east tweets.

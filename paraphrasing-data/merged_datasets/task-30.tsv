@@ -1,0 +1,81 @@
+# expression: seek for flights from Tehran to Sydney
+
+valid,	flights from Tehran to Sydney
+valid,	looking for flights from Tehran to Sydney
+spelling,	what are flihts from Tehran to Sydney.
+
+valid,	flight timings from Tehran to Sydney
+cheating,divergence,	our cheap flights from Tehran to Sydney will inspire you to plan the adventure you deserve.
+divergence,cheating,	how long it takes to travel from Tehran to Sydney
+
+cheating,	Tehran to Sydney on friday
+cheating,	Tehran to Sydney on
+cheating,	Tehran to Sydney on saturday
+
+valid,	search for flights to Sydney from Tehran
+valid,	look for Tehran to Sydney flights please
+valid,	find flights going from Tehran to Sydney
+
+valid,	show me Tehran to Sydney flights
+valid,	what flights are available for Tehran to Sydney
+valid,	tell me the Tehran to Sydney flight times
+
+valid,	please find flights from Tehran to Sydney
+valid,	give me details for flights from Tehran to Sydney
+spelling,	need to bok flights from Tehran to Sydney
+
+valid,	I want to go to Tehran from Sydney
+divergence,	how long does it take a plane from Sydney to Tehran
+answer,divergence,	I can not find a plane from Tehran to Sydney
+
+valid,	look for tickets to fly from Tehran to Sydney
+valid,	find me some flights from Tehran to Sydney
+valid,	need you to look for a flight from Tehran to Sydney
+
+valid,	search for flights from Tehran to Sydney
+valid,	find me flights from Tehran to Sydney
+valid,	look for flights from Tehran to Sydney
+
+valid,	how many flights from Tehran to Sydney?
+valid,	where can I search for flights from Tehran to Sydney
+valid,	which companies fly from Tehran to Sydney?
+
+valid,	search for flights from Tehran to Sydney
+valid,	I need to book a flight from Tehran to Sydney
+valid,	I would like to find a flight to Sydney departing from Tehran
+
+valid,	search for flights to go from Tehran to Sydney
+valid,	look for flights available from Tehran to Sydney
+valid,	I would like flights available from Tehran to Sydney
+
+valid,	search for flights from Tehran to Sydney
+divergence,misuse,	help_seeker for flights from Tehran to Sydney
+valid,	tell me about for flights from Tehran to Sydney
+
+valid,	I am searching for flight schedule from Tehran to Sydney
+valid,	I would like to get flight details to Sydney from Tehran
+valid,	could you find flight details between Tehran and Sydney
+
+valid,	what flights from Tehran to Sydney
+valid,	find flights from Tehran to Sydney
+valid,	seek flights from Tehran to Sydney
+
+spelling,	find flights for Tehran to Sydney
+valid,	what flights are available from Tehran to Sydney
+spelling,	I would like to fly for Tehran to Sydney, which flights are available
+
+valid,	I need to book a flight from Tehran to Sydney
+valid,	I need a direct flight from Tehran to Sydney
+valid,	I am looking for flights from Tehran to Sydney
+
+valid,	search for flights from Tehran to Sydney
+valid,	hunt for flights from Tehran to Sydney
+valid,	look for flights from Tehran to Sydney
+
+valid,	look for flights to Sydney from Tehran
+valid,	search for flights going from Tehran to Sydney
+valid,	check for flights traveling to Sydney from Tehran
+
+misuse,cheating,divergence,	domestic_flight Tehran to Sydney
+valid,cheating,	international flight from Tehran to Sydney
+divergence,misuse,cheating,	blind_flying from Tehran to Sydney

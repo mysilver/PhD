@@ -1,0 +1,81 @@
+# expression: Any suggestion for an inexpensive hotel near Seattle for tomorrow for 2
+
+grammar,	are there any in inexpensive hotel near Seattle for 2 for tomorrow.
+valid,	can I get a room for 2 in an inexpensive hotel near Seattle tomorrow.
+valid,	is there any room available for 2 tomorrow in an inexpensive hotel near Seattle.
+
+cheating,	Seattle for tomorrow for 2 is8783
+cheating,	Seattle for tomorrow for 2 10632
+cheating,	Seattle for tomorrow for 2 11962
+
+divergence,	what will the weather report be in Seattle for tomorrow at 2 o clock
+divergence,	I booked a ticket to fly Seattle for tomorrow for 2 of us
+divergence,	can you find Seattle location in google maps to go there tomorrow at 2 pm
+
+valid,	suggest me an inexpensive hotel near Seattle for tomorrow for 2
+valid,	please give a suggestion about an inexpensive hotel near Seattle for tomorrow for 2
+cheating,	I suggest you for an inexpensive hotel near Seattle for tomorrow for 2
+
+valid,	give me an inexpensive hotel in Seattle for 2 people tomorrow
+valid,	get me a list of cheap hotels in Seattle for 2 tomorrow
+valid,	any cheap hotels available tomorrow for 2 in Seattle
+
+valid,	find me an inexpensive hotel near Seattle for tomorrow for 2
+valid,	I need an inexpensive hotel near Seattle for tomorrow for 2
+grammar,	options for inexpensive hotel near Seattle for tomorrow for 2
+
+valid,	do you know any cheap hotel near Seattle for tomorrow for 2
+grammar,	get me list of cheap hotel in Seattle tomorrow for 2 people
+valid,	do you know any inexpensive hotel near Seattle that will be available tomorrow for 2
+
+valid,	suggest me a low cost hotel for 2 near Seattle for tomorrow.
+valid,	what are some inexpensive hotels near Seattle for 2 for tomorrow?
+valid,	show me the list of some inexpensive hotels near Seattle for 2 because I am planning to go there tomorrow.
+
+divergence,	I am making a visit to Seattle is there any 2 famous night clubs for tomorrow
+divergence,	I will reach in Seattle at 2 pm tomorrow
+divergence,	I need 2 air tickets to travel to Seattle tomorrow
+
+valid,	can you recommend a cheap hotel stay for 2 in Seattle tomorrow?
+valid,	is there a reasonably priced hotel for 2 people near Seattle for tomorrow?
+valid,	I'm looking for a fair priced hotel for 2 for tomorrow in Seattle?
+
+valid,	are there any cheap hotel rooms for 2 near Seattle for tomorrow
+valid,	I need to book an inexpensive hotel room for 2 close by Seattle for tomorrow.
+valid,	tomorrow I will need an affordable hotel room for 2 near Seattle.
+
+valid,	can you recommend a cheap hotel for 2 close to Seattle for tomorrow.
+grammar,	could you suggest an affordable hotel for Seattle for tomorrow for 2 people.
+valid,	any ideas for a cheap hotel close to Seattle for tomorrow for 2?
+
+valid,	hotel near Seattle for 2 tomorrow
+valid,	Seattle hotel room for 2 tomorrow
+valid,	suggest a Seattle hotel room for 2 tomorrow
+
+spelling,grammar,	suggest me foor an inexpensive hotel near Seattle for tomorrow for 2
+cheating,valid,	can I find here an inexpensive hotel near Seattle for tomorrow for 2
+cheating,	I know some inexpensive hotels near Seattle for tomorrow for 2
+
+valid,	inexpensive hotel near Seattle for tomorrow for 2
+valid,	low cost hotel near Seattle for tomorrow for 2
+valid,	economical hotel near Seattle for tomorrow for 2
+
+valid,	show me cheap hotels in Seattle available tomorrow for 2 persons
+valid,	are there any inexpensive hotels available for 2 people from tomorrow and near to Seattle
+valid,	find hotels near Seattle which are available from tomorrow for 2 individuals
+
+spelling,	please advice on an inexpensive hotel in Seattle vicinity seving for 2 tomorrow
+valid,	please find a low cost hotel near Seattle for 2 for tomorrow
+valid,	may I have a low cost lodge for 2 for tomorrow
+
+cheating,	any suggestion for an inexpensively hotel near Seattle for tomorrow for 2
+valid,	any suggestion for an inexpensive guesthouse near Seattle for tomorrow for 2
+cheating,	nearbyinn any suggestion for an inexpensive hotel near Seattle for tomorrow for 2
+
+cheating,	Seattle for tomorrow for 2 you
+cheating,	Seattle for tomorrow for 2 3
+cheating,	Seattle for tomorrow for 2 6
+
+cheating,	any suggestion of a budget hotel near Seattle for tomorrow for 2 what is the proposal
+cheating,	any suggestion of a budget hotel near Seattle for tomorrow for 2 per night
+cheating,	any suggestion of a budget hotel near Seattle for tomorrow for 2 convenient

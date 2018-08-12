@@ -1,0 +1,81 @@
+# expression: Could you offer three barbershops in Newtown
+
+valid,	give me three barbershops in Newtown
+divergence,valid,	should I have three barbershops in Newtown
+valid,	get a list of three barbershops in Newtown
+
+valid,	could you offer three barbershops in Newtown?
+spelling,	where are the location of three barbersops in Newtown?
+valid,	can you show me three barbershops in Newtown
+
+cheating,divergence,	we could offer three barbershop in Newtown
+cheating,grammar,	could offer us three barbershop in Newtown ?
+divergence,grammar,cheating,	we could be offered three barbershop in Newtown
+
+cheating,	could we offer three hairdressers in Newtown
+cheating,	are we going to offer three hairdressers in Newtown
+cheating,	do we want to offer three hairdressers in Newtown
+
+valid,	do you know three barbershops in Newtown
+valid,	could you tell me three barbershops in Newtown
+valid,	could you send me a list of three barbershops in Newtown
+
+valid,	please provide me the list of three nearest barbershops in Newtown
+valid,	would you know at least three barbershops here in Newtown?
+valid,	I need the names of the top three barbershops in Newtown.
+
+valid,	name three barbershops in Newtown
+valid,	show me three different barbershops in Newtown
+valid,	I need three barbershops in Newtown
+
+spelling,	could you find me three babershops in Newtown
+valid,	can you show me three barbershops in Newtown
+valid,	can you locate me three barbershops in Newtown
+
+grammar,	I am looking for three barbershop in Newtown
+grammar,cheating,	finding three good barbershop in Newtown is not easy
+valid,	please tell me the best three barbershops in Newtown
+
+divergence,	what are the top three food items in Newtown
+divergence,	name the top three musicians in Newtown
+divergence,	which three places are famous in Newtown
+
+grammar,	fine me three barbershop in Newtown?
+valid,	can you provide info for three barbershops in Newtown?
+valid,	where are three barbershops in Newtown?
+
+valid,	can you name three hair salon businesses in Newtown?
+valid,	please provide three beauty salon businesses in Newtown
+valid,	I was wondering if you might suggest three barbershop businesses in Newtown
+
+valid,	can you tell me a list of three barbershops in Newtown
+valid,	are there three barbershops in Newtown
+valid,	I want to know three barbershops in Newtown
+
+valid,	suggest three barbers in Newtown
+valid,	three best barbers in Newtown
+valid,	top three barbers in Newtown
+
+valid,	show me three barbershops in Newtown
+valid,	find three barbershops in Newtown
+valid,	in Newtown please suggest three barbershops
+
+valid,	could you give three hair salons in Newtown
+valid,	may I receive three beauty parlors in Newtown
+valid,	are three barbershops available in Newtown
+
+valid,	want you to offer three beauty salons in Newtown?
+grammar,	do I have three barbershop in Newtown?
+valid,	could you give me three hairdressing shops in Newtown?
+
+valid,	three hair cutters in Newtown
+valid,	three hair stylists in Newtown
+valid,	three barbershops in Newtown
+
+valid,	could you deliver three haircutting places in Newtown
+valid,	can you provide three hair salons in Newtown
+spelling,	can you give three plaves in Newtown for hairdressing
+
+valid,	could you offer three for the cut of stick hairdressing in Newtown?
+valid,	could you offer three barbershop hairdressers in Newtown?
+valid,	could you offer three hair stylist for the hairdresser in Newtown?

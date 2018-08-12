@@ -1,0 +1,41 @@
+# expression: search for some restos near <b class='fixed'>Sydney</b>
+
+valid	find a restaurant near Sydney
+valid	find close by restaurant in Sydney
+valid	looking for a restaurant in the Sydney vicinity
+
+valid	look for a restaurant close to Sydney
+valid	I'm hunting for an eatery in nearby Sydney
+valid	I'm seeking a place to eat near Sydney
+
+valid	could you please search for restaurant near Sydney
+valid	I would like to know some good restaurant near to Sydney
+valid	kindly do search restaurant which is near to Sydney
+
+divergence	seek_for a coffee shop in Sydney
+divergence	search nearby places in the Sydney
+divergence	search for close_by petrol pumps in Sydney
+
+valid	find some restos near Sydney
+valid	seek out some restos near Sydney
+valid	find a diner in Sydney
+
+valid	find a diner near Sydney
+valid	locate a restaurant near Sydney
+valid	find somewhere to eat in a neighborhood near Sydney
+
+valid	look for restaurants near Sydney
+valid	find restaurants near Sydney
+valid	seek nearby restaurants in Sydney
+
+valid	seek for some restos near Sydney
+valid	search for some restos close to Sydney
+valid	search for some bistro near Sydney
+
+valid	look for some restaurants close to Sydney
+valid	seek some restos around Sydney
+valid	find some restos in the vicinity of Sydney
+
+cheating	greasy_spoon in Sydney
+cheating	beside Sydney
+cheating	hard_by Sydney

@@ -1,0 +1,81 @@
+# expression: create a comment saying "Best Voice Ever!!"
+
+cheating,	heard "Best Voice Ever!!"
+cheating,	"Best Voice Ever!!" Outstanding.
+cheating,	Searching for "Best Voice Ever!!"
+
+valid,	generate a comment saying "Best Voice Ever!!"
+valid,	Create a comment which says "Best Voice Ever!!"
+valid,	"Best Voice Ever!!" must be said by the created comment
+
+valid,	comment "Best Voice Ever!!"
+valid,	make a comment "Best Voice Ever!!"
+valid,	send "Best Voice Ever!!" as a comment
+
+valid,	make a comment saying "Best Voice Ever!!"
+valid,	create a comment "Best Voice Ever!!"
+valid,	create a nice comment saying "Best Voice Ever!!"
+
+translate,	todo esta bien
+translate,	para vivir mejor
+translate,	gracas a dios
+
+valid,	say in a comment "Best Voice Ever!!"
+valid,	create comment saying "Best Voice Ever!!"
+valid,	comment saying "Best Voice Ever!!"
+
+cheating,	you got the best voice ever
+cheating,	she produced the best voice ever
+cheating,	I heard her singing with the best voice ever
+
+valid,	make a comment and write "Best Voice Ever!!"
+valid,	start a comment with "Best Voice Ever!!"
+valid,	write "Best Voice Ever!!" and make it a comment.
+
+cheating,	it's the best voice ever I listen
+cheating,	best voice ever I have
+cheating,	well done, best voice ever!
+
+spelling,	use words best voice ever tocreate a comment
+valid,	make a comment by using best voice ever
+valid,	comment by using best voice ever
+
+valid,	comment with "Best Voice Ever"
+valid,	add comment "Best Voice Ever"
+valid,	comment "Best Voice Ever"
+
+valid,	make a statement to say "Best Voice Ever"
+valid,	produce a comment to tell her "Best Voice Ever"
+valid,	make a remark saying "Best Voice Ever"
+
+cheating,	Best Voice Ever
+cheating,	commentry on Best Voice Ever
+valid,	comment saying "Best Voice Ever"
+
+valid,	build a comment saying Best Voice Ever
+cheating,	Best Voice Ever description
+valid,	comment on Best Voice Ever
+
+divergence,cheating,	establish a remark stating "Best Voice Ever"
+cheating,divergence,	develop an announcement about "Best Voice Ever"
+cheating,divergence,	construct an announcement stating "Best Voice Ever"
+
+divergence,cheating,	describe a comment as Best Voice Ever
+divergence,cheating,	explain this comment as the Best Voice Ever
+cheating,divergence,	use Best Voice Ever to describe this comment
+
+divergence,cheating,	I met a guy who spoke with the Best Voice Ever heard in my lifetime
+divergence,cheating,	the Best Voice Ever known to man is that of god
+cheating,divergence,	I hope this is the Best Voice Ever recorded on tape
+
+valid,	generate a comment saying Best Voice Ever
+valid,	formulate a comment saying Best Voice Ever
+valid,	create a comment defining Best Voice Ever
+
+valid,	formulate a statement which includes Best Voice Ever
+valid,	compose a sentence with Best Voice Ever as a comment
+valid,	makeup a comment mentioning Best Voice Ever
+
+divergence,	fabricate Best Voice Ever
+valid,	write down Best Voice Ever
+valid,	generate a comment saying "Best Voice Ever"

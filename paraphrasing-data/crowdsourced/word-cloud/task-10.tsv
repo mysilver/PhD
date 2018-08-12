@@ -1,0 +1,33 @@
+# expression: turn off <b class='fixed'>i-a541</b> now
+
+valid	cancel i-a541
+valid	turn off i-a541 immediately
+valid	discontinue i-a541
+
+valid	switch off i-a541
+valid	shut down i-a541
+valid	now turn off i-a541
+
+valid	terminate i-a541 now
+valid	shut down i-a541 now
+valid	close i-a541 now
+
+valid	change i-a541 to off
+valid	i-a541 should be off now
+valid	switch off i-a541 right now
+
+valid	stop i-a541 now
+valid	cease i-a541 now
+valid	switch i-a541 now
+
+valid	switch off i-a541
+valid	stop i-a541 please
+valid	please turn off i-a541
+
+valid	suspend i-a541 now
+valid	stop i-a541 now
+valid	switch off a-541 immediately
+
+divergence	turn to i-a541 now
+valid	leave_off i-a541 now
+divergence	swing_around i-a541 now

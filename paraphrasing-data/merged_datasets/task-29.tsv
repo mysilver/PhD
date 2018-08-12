@@ -1,0 +1,81 @@
+# expression: search the web for the Amazon web page
+
+valid,	Amazon web page on web
+valid,	Amazon webpage on internet
+valid,	search Amazon website
+
+divergence,cheating,	what kind of products are best suggestible in Amazon
+divergence,cheating,	name the institue for the course of Amazon web services
+divergence,cheating,	why is Amazon the best online shopping market
+
+divergence,cheating,	Amazon is largest search engine used
+cheating,divergence,	Amazon is working as best selling plateform
+divergence,	Amazon helps in every field
+
+cheating,valid,	the Amazon
+divergence,cheating,	Amazon jail
+cheating,divergence,	gold of the Amazon women
+
+valid,	look on the web to find the Amazon page
+valid,	search for Amazon on the web
+valid,	find the Amazon web page by searching the web
+
+divergence,cheating,	I want to buy on Amazon
+cheating,divergence,	Amazon I love
+cheating,divergence,	I find what I'm looking for in Amazon
+
+valid,	navigate to Amazon web page
+valid,	search for Amazon web page
+valid,	locate the web page for Amazon
+
+cheating,divergence,	we can shopping on Amazon
+cheating,divergence,	we can do business on Amazon
+cheating,divergence,	biggest location of books is on Amazon
+
+valid,	please open Amazon website
+valid,	open the Amazon web page
+valid,	search in google for Amazon web page
+
+valid,	scan the web for the Amazon website page
+valid,	look for the web for the Amazon web page
+valid,	search for the web for the Amazon page
+
+valid,	enter Amazon into the search engine
+valid,	I am looking for the Amazon web page
+valid,	conduct a search for Amazon
+
+valid,	look on the internet for the Amazon web site
+valid,	search online for the web page called Amazon
+valid,	peruse the web to find the page Amazon
+
+cheating,divergence,	seek for availability of a product in the Amazon web page
+divergence,cheating,	does multiple Amazon web_pages exist for a single product
+divergence,cheating,	is page retrieval fast for a product in search_engine of Amazon web page
+
+valid,	search for the Amazon web page
+valid,	look through the search engine for Amazon web pages
+valid,	search web page for Amazon using the search engine
+
+valid,	seek the Amazon web page
+valid,	search for the Amazon web page
+valid,	find the Amazon web page
+
+valid,	find the Amazon page on the internet
+valid,	go to the web and find the Amazon page
+valid,	use a search engine to find the Amazon page
+
+valid,	lookup the search engine for Amazon website
+valid,	search the internet for Amazon web page
+valid,	google Amazon web page
+
+valid,	find Amazon web site
+valid,	locate Amazon online
+valid,	search for Amazon
+
+valid,	I need to find the Amazon web page
+valid,	I am trying to find the Amazon website
+valid,	I need to conduct a search for the Amazon web page
+
+valid,	google Amazon
+valid,	take me to Amazon's home page
+valid,	go to the home page of Amazon

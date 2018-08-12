@@ -1,0 +1,41 @@
+# expression:  Search for the topmost ranked <b class='fixed'>10</b> tweets containing "<b class='fixed'>middle east</b>
+
+valid	top 10 tweets contain middle east
+valid	middle east top 10 tweets
+spelling	10 tweets releated to middle east
+
+valid	can you find the top rated 10 tweets that have "middle east" in them?
+valid	I would like to find the 10 top tweets referring to the "middle east".
+valid	I am looking for 10 tweets that have the words "middle east" and are ranked in the top.
+
+divergence	top 10 middle east countries.
+divergence	middle east is on top 10 list.
+divergence	10 things to see in middle east.
+
+grammar	remarkable 10 tweets witch cointain middle east
+valid	10 tweets with the word middle east
+valid	the 10 most important tweets about middle east
+
+valid	search for 10 tweets containing the words "middle east" that are ranked topmost.
+valid	provide me the list of 10 topmost ranked tweets containing "middle east".
+valid	perform a search of 10 tweets containing "middle east" that are ranked topmost
+
+valid	search top 10 middle east tweets
+valid	search twitter for top 10 middle east tweets
+valid	search twitter for 10 top ranked middle east tweets
+
+valid	what are top 10 tweets about middle east.
+valid	search top 10 tweets containing middle east.
+valid	show me top 10 tweets about middle east.
+
+valid	search for the 10 topmost ranked tweets containing "middle east"
+valid	search the 10 topmost ranked tweets containing "middle east"
+valid	search for the 10 topmost ranked tweets that containing "middle east"
+
+divergence	the many strands of middle east diplomacy crossed paths last 10 days.
+divergence	disturbances in the middle east often boost the price of oil past 10 years.
+divergence	about 10 million filipinos work in the middle east.
+
+valid	find the top 10 tweets about the middle east.
+valid	locate the 10 top tweets that are in regards to the middle east.
+valid	search for the top 10 comm tweets that contain the reference middle east.

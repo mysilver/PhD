@@ -1,0 +1,41 @@
+# expression:  skip to the next song
+
+valid	can you skip this song and play the next one?
+valid	I don't like this song. can you play the next one?
+valid	I would like to hear another ballad can you skip this song?
+
+valid	play next song
+valid	jump to next song
+grammar	recite next song
+
+cheating	invalid invalid
+cheating	invalid invalid/
+cheating	invalid invalid .
+
+divergence	is the song represents the anthem
+valid	is it necessary to skip the current song
+divergence	does the current song represents the upcoming movie
+
+cheating	scurry hymn
+cheating	sing
+cheating	game
+
+valid	go to the next song
+valid	go to the next melody
+cheating	come the next sing
+
+valid	play the song that is ahead
+valid	I want to listen to the forthcoming melody.
+valid	hop to the song that comes next.
+
+valid	skip to the next song
+divergence	skip to the next lyric
+valid	go to the next song
+
+valid	move to the next song
+valid	jump to the next song
+divergence	fast track to the next song
+
+divergence	final song
+valid	skip that song
+divergence	before song

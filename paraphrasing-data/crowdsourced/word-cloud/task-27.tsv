@@ -1,0 +1,37 @@
+# expression: I am hosting a party, what playlist do you suggest ?
+
+valid	can you suggest a good party playlist
+valid	I would like to welcome guests to my party with the best playlist
+valid	which playlist would be the best for my party
+
+divergence	I'm hosting a party, what music do you like?
+divergence	I'm having a a party, what set list do you enjoy?
+divergence	I'm partying, what songs do you like?
+
+valid	suggest party playlists
+valid	best music for parties
+valid	best party playlists
+
+cheating	invalid invalid
+cheating	invalid invalid .
+cheating	invalid invalid invalid
+
+valid	I am having a party, what playlist do you suggest
+valid	I am having a party, what hits do you suggest
+valid	I am having a party, what music do you suggest
+
+valid	suggest playlists for a party
+valid	find party playlists
+valid	which playlist should I choose for my party
+
+valid	I have a party, do you have a playlist choice?
+valid	I need a playlist for a party I'm hosting, do you have any suggestion?
+valid	do you have a playlist preference for me to use at the party I'm hosting tomorrow?
+
+cheating	valid you suggest
+cheating	suggest hosting a party?
+cheating	suggest presume a party?
+
+cheating	I'm organizing a party, what playlist do you suggest? everything is valid
+cheating	I'm organizing a party, really, what playlist do you suggest?
+cheating	I'm organizing a party, only what playlist do you suggest?
